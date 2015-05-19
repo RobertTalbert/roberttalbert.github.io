@@ -13,13 +13,21 @@
         </svg>
       </a>
 
-      <div class="trigger">
+<!--       <div class="trigger">
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
         <a href="http://chronicle.com/blognetwork/castingoutnines">Casting Out Nines</a>
+      </div> -->
+      <div class="trigger">
+          <a class="page-link" href="{{site.baseurl}}/About">About</a>
+          <a class="page-link" href="{{site.baseurl}}/Research">Research</a>
+          <a class="page-link" href="{{site.baseurl}}/Teaching">Teaching</a>
+          <a class="page-link" href="{{site.baseurl}}/Speaking">Speaking</a>
+          "http://chronicle.com/blognetwork/castingoutnines">Casting Out Nines</a>
+          <a class="page-link" href="{{site.url}}">Home</a>
       </div>
     </nav>
 

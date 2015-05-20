@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![RT at the dinner table](IMG_0862.jpg)
+
 I am an Associate Professor in the Mathematics Department at [Grand Valley State University](http://www.gvsu.edu) in Allendale, Michigan USA, located in the beautiful [west coast region of Michigan](http://usatoday30.usatoday.com/travel/destinations/2006-06-05-michigan_x.htm). Prior to joining the department at GVSU in 2011, I was on the faculty at [Bethel College](http://www.bethelcollege.edu) (Indiana) from 1997--2001 and [Franklin College](http://www.franklincollege.edu) from 2001--2011. 
 
 My graduate work was in Mathematics at [Vanderbilt University](http://www.vanderbilt.edu/) (M.S., 1994 and Ph.D., 1997) under the direction of Efstratios Prassidis in the areas of topology, classical and universal algebra, and category theory. Before going to Vanderbilt, I earned an honors B.S. degree in Mathematics from [Tennessee Technological University](http://www.tntech.edu) where I also completed minors in Psychology and English and performed in the concert choir and orchestra. 

@@ -9,9 +9,9 @@ I am an Associate Professor in the Mathematics Department at [Grand Valley State
 
 And some code: 
 
-    {% highlight python %}
-    def f(x):
-        print 'Hello world'
+    {% highlight haskell %}
+    square :: Int -> Int
+    square x = x * x
     {% endhighlight %}
 
 My graduate work was in Mathematics at [Vanderbilt University](http://www.vanderbilt.edu/) (M.S., 1994 and Ph.D., 1997) under the direction of Efstratios Prassidis in the areas of topology, classical and universal algebra, and category theory. Before going to Vanderbilt, I earned an honors B.S. degree in Mathematics from [Tennessee Technological University](http://www.tntech.edu) where I also completed minors in Psychology and English and performed in the concert choir and orchestra. 

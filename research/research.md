@@ -11,7 +11,7 @@ My research and writing projects are mainly focused on the scholarship of teachi
 + __Marcia Frobish__ (Mathematics, GVSU) and I are analyzing data collected from 10 sections of Calculus 1 during Fall 2014 to measure progress in students' conceptual understanding of calculus and their self-regulated learning behaviors across the semester. 
 + __Amy Schelling__ (Education, GVSU) and I are currently planning a study to be run in Fall 2015 to examine the effects of flipped learning on students with documented learning disabilities. 
 + My paper _Technology as a tool for self-regulated learning in an inverted calculus course_ is currently being submitted to journals. 
-+ I am working on a reading and self-study project to learn about the [Haskell programming language](https://www.haskell.org/) and its theoretical basis, the $\lambda$-calculus. 
++ I am working on a reading and self-study project to learn about the [Haskell programming language](https://www.haskell.org/) and its theoretical basis, the $$\lambda$$-calculus. 
 
 ### Upcoming publications
 

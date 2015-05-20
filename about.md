@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![RT at the dinner table](IMG_0862.jpg)
+![RT at the dinner table](IMG_0862.JPG)
 
 I am an Associate Professor in the Mathematics Department at [Grand Valley State University](http://www.gvsu.edu) in Allendale, Michigan USA, located in the beautiful [west coast region of Michigan](http://usatoday30.usatoday.com/travel/destinations/2006-06-05-michigan_x.htm). Prior to joining the department at GVSU in 2011, I was on the faculty at [Bethel College](http://www.bethelcollege.edu) (Indiana) from 1997--2001 and [Franklin College](http://www.franklincollege.edu) from 2001--2011. 
 

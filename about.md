@@ -9,8 +9,11 @@ I am an Associate Professor in the Mathematics Department at [Grand Valley State
 This is a quick mathjax test: $$\sqrt{\dfrac{\sqrt{x+1}}{x}}$$
 
 And some code: 
+
+    {% highlight python %}
     def f(x):
-        print x
+        print 'Hello world'
+    {% endhighlight %}
 
 My graduate work was in Mathematics at [Vanderbilt University](http://www.vanderbilt.edu/) (M.S., 1994 and Ph.D., 1997) under the direction of Efstratios Prassidis in the areas of topology, classical and universal algebra, and category theory. Before going to Vanderbilt, I earned an honors B.S. degree in Mathematics from [Tennessee Technological University](http://www.tntech.edu) where I also completed minors in Psychology and English and performed in the concert choir and orchestra. 
 

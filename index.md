@@ -3,13 +3,9 @@ layout: page
 permalink: /
 ---
 
-<!-- ![Robert Talbert](rtheadshot.jpg)  -->
+![Robert Talbert](rtheadshot.jpg) 
 
-<body>
-<img src="rtheadshot.jpg" style="float:left;"/>
 Welcome. I am an Associate Professor in the Mathematics Department at [Grand Valley State University](http://www.gvsu.edu) in Allendale, Michigan USA. At this website, you will find information about my teaching, my research and writing projects, and my speaking and consulting work. You can contact me for further information at the links at the bottom of the page.
-</body>
-
 
 
 ### Current courses at GVSU

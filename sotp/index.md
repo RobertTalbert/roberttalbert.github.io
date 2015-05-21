@@ -20,4 +20,6 @@ Finally, __students should use technology intelligently as a tool for making sen
 
 I still have a lot to learn about teaching. Teaching is a hard problem whose solutions generate more hard problems -- and as a mathematician who enjoys hard problems, I cannot imagine a better profession than teaching. In fact teaching, for me, is closer to a vocation than a profession. It is a great good to be able to form lasting, positive relationships with students as they themselves deepen their relationships with each other and with ideas. It is also a great honor and an awesome responsibility to play some role in their preparation to live a lifetime of learning.  
 
+-----
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

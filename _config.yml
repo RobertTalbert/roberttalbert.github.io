@@ -4,8 +4,8 @@ email: talbertr@gvsu.edu
 description: > # this means to ignore newlines until "baseurl:"
   The professional website for Robert Talbert, Associate Professor of Mathematics at 
   Grand Valley State University and author, speaker, and consultant on education and technology. 
-# baseurl: "/roberttalbert.github.io" # the subpath of your site, e.g. /blog/
-# url: "http://roberttalbert.github.io" # the base hostname & protocol for your site
+baseurl: "/roberttalbert.github.io" # the subpath of your site, e.g. /blog/
+url: "http://roberttalbert.github.io" # the base hostname & protocol for your site
 twitter_username: "@RobertTalbert"
 github_username:  "RobertTalbert"
 plus_username: "+RobertTalbert"

@@ -10,7 +10,6 @@ In addition to my duties as a professor, I serve as a speaker and consultant to 
 
 ### Upcoming speaking/consulting engagements 
 
-+ __An ABC for Effective Flipped Learning__ (Keynote, Innovation Insights in Quantitative Business; May 25, 2015, Toronto, ON CA)
 + __Implementing and Assessing Flipped Learning in Face-to-Face and Online Contexts__ (Keynote, Hope College Hybrid Learning Workshop; June 8, 2015, Holland MI)
 + __Flipped Infrastructures for Inquiry-Based Learning__ (Contibuted talk, 18th Annual Legacy of R. L. Moore/Inquiry Based Learning conference; June 25, 2015, Austin, TX)
 + [Creating Flipped Learning Experiences in the College Mathematics Classroom](http://www.maa.org/meetings/mathfest/program-details/2015/minicourses) (Minicourse, MAA MathFest; August 6 and 8, 2015, Washington DC)
@@ -18,6 +17,7 @@ In addition to my duties as a professor, I serve as a speaker and consultant to 
  
 ### Recent speaking/consulting engagements
 
++ [An ABC for Effective Flipped Learning](http://rtalbert.org/pearsontoronto) (Keynote, Innovation Insights in Quantitative Business; May 25, 2015, Toronto, ON CA)
 + [Self-Regulated Learning in the Calculus Classroom](http://roberttalbert.github.io/advance) (Workshop, Syracuse University Project Advance; May 4--5, 2015, Syracuse and New York City, NY)
 + [Best Practices in Flipped Class Design](http://www.magnapubs.com/online-seminars/best-practices-in-flipped-class-design-13377-1.html) (Webinar, Magna Publications; March 26, 2015)
 + [Students at the Center: The Why and the How of Student-Centered, Inquiry-Focused Instruction](http://roberttalbert.github.io/lenoirrhyne) (Keynote, Lenoir-Rhyne University faculty retreat; January 9, 2015, Hickory, NC)

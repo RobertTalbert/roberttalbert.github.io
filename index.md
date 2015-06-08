@@ -16,5 +16,5 @@ Welcome. I am an Associate Professor in the Mathematics Department at [Grand Val
 
 [Click here](/speaking) for the full schedule. 
 
-+ __Implementing and Assessing Flipped Learning in Face-to-Face and Online Contexts__ (Keynote, Hope College Hybrid Learning Workshop; June 8, 2015, Holland MI)
++ [Implementing and Assessing Flipped Learning in Face-to-Face and Online Contexts](http://rtalbert.org/hlwhope) (Keynote, Hope College Hybrid Learning Workshop; June 8, 2015, Holland MI)
 + __Flipped Infrastructures for Inquiry-Based Learning__ (Contibuted talk, 18th Annual Legacy of R. L. Moore/Inquiry Based Learning conference; June 25, 2015, Austin, TX)

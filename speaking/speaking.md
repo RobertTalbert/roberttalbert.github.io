@@ -10,7 +10,7 @@ In addition to my duties as a professor, I serve as a speaker and consultant to 
 
 ### Upcoming speaking/consulting engagements 
 
-+ __Implementing and Assessing Flipped Learning in Face-to-Face and Online Contexts__ (Keynote, Hope College Hybrid Learning Workshop; June 8, 2015, Holland MI)
++ [Implementing and Assessing Flipped Learning in Face-to-Face and Online Contexts](http://rtalbert.org/hlwhope) (Keynote, Hope College Hybrid Learning Workshop; June 8, 2015, Holland MI)
 + __Flipped Infrastructures for Inquiry-Based Learning__ (Contibuted talk, 18th Annual Legacy of R. L. Moore/Inquiry Based Learning conference; June 25, 2015, Austin, TX)
 + [Creating Flipped Learning Experiences in the College Mathematics Classroom](http://www.maa.org/meetings/mathfest/program-details/2015/minicourses) (Minicourse, MAA MathFest; August 6 and 8, 2015, Washington DC)
 + __Rethinking Class Time Using Accessible Technology__ (Keynote, Kansas City Regional Mathematics Technology Expo; October 2, 2015, Kansas City, MO)

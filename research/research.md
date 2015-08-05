@@ -21,6 +21,6 @@ My research and writing projects are mainly focused on the scholarship of teachi
 
 ### Recent publications 
 
-+ _Flipped Calculus: A Gateway for Lifelong Learning in Mathematics_ -- Book chapter to appear in [Best Practices in Flipping the College Classroom](http://www.routledge.com/books/details/9781138021730/), Routledge Press. 
++ _Flipped Calculus: A Gateway for Lifelong Learning in Mathematics_ -- Book chapter in [Best Practices in Flipping the College Classroom](http://www.routledge.com/books/details/9781138021730/), Routledge Press (2015). 
 + Talbert, R. (2013) Inverting the linear algebra classroom. _PRIMUS: Problems, Resources, and Issues in  Mathematics Undergraduate Studies_ 24:5 (361--374). DOI: 10.1080/10511970.2014.883457
 + Talbert, R. (2013) Learning MATLAB in the inverted classroom. _Computers in Education Journal_, 4(2): 89–100.

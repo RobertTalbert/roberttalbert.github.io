@@ -18,7 +18,7 @@ In 2015, I was humbled to receive the [Pew Teaching with Technology Award](https
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/0xMX0XpagGQ" frameborder="0" allowfullscreen></iframe>
 
-I write about issues concerning mathematics, technology and teaching at my [blog](http://chronicle.com/blognetwork/castingoutnines) at the _Chronicle of Higher Education_, on [Google+](http://google.com/+RobertTalbert), and on [Twitter](http://twitter.com/RobertTalbert). 
+I write about issues concerning mathematics, technology and teaching at [my blog](http://rtalbert.org/blog) (formerly [hosted at the Chronicle of Higher Education](http://chronicle.com/blognetwork/castingoutnines)), on [Google+](http://google.com/+RobertTalbert), and on [Twitter](http://twitter.com/RobertTalbert). 
 
 I live in Allendale with my wife, my three kids, and three cats -- 20 minutes from the beach and 20 minutes from Grand Rapids. 
 

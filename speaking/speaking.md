@@ -10,13 +10,15 @@ In addition to my duties as a professor, I serve as a speaker and consultant to 
 
 ### Upcoming speaking/consulting engagements 
 
-+ [Implementing and Assessing Flipped Learning in Face-to-Face and Online Contexts](http://rtalbert.org/hlwhope) (Keynote, Hope College Hybrid Learning Workshop; June 8, 2015, Holland MI)
-+ __Flipped Infrastructures for Inquiry-Based Learning__ (Contibuted talk, 18th Annual Legacy of R. L. Moore/Inquiry Based Learning conference; June 25, 2015, Austin, TX)
 + [Creating Flipped Learning Experiences in the College Mathematics Classroom](http://www.maa.org/meetings/mathfest/program-details/2015/minicourses) (Minicourse, MAA MathFest; August 6 and 8, 2015, Washington DC)
++ __Assessment Strategies for Flipped Learning Experinces__ (Webinar for Magna Publications; September 29, 2015)
 + __Rethinking Class Time Using Accessible Technology__ (Keynote, Kansas City Regional Mathematics Technology Expo; October 2, 2015, Kansas City, MO)
++ __Twenty-First Century Technology Serving Twenty-First Century Learners__ (Keynote and workshop; University of the West Indies, Kingston, Jamaica, October 8, 2015)
  
 ### Recent speaking/consulting engagements
 
++ [Implementing and Assessing Flipped Learning in Face-to-Face and Online Contexts](http://rtalbert.org/hlwhope) (Keynote, Hope College Hybrid Learning Workshop; June 8, 2015, Holland MI)
++ [Flipped Infrastructures for Inquiry-Based Learning](http://rtalbert.org/rlmoore) (Contibuted talk, 18th Annual Legacy of R. L. Moore/Inquiry Based Learning conference; June 25, 2015, Austin, TX)
 + [An ABC for Effective Flipped Learning](http://rtalbert.org/pearsontoronto) (Keynote, Innovation Insights in Quantitative Business; May 25, 2015, Toronto, ON CA)
 + [Self-Regulated Learning in the Calculus Classroom](http://roberttalbert.github.io/advance) (Workshop, Syracuse University Project Advance; May 4--5, 2015, Syracuse and New York City, NY)
 + [Best Practices in Flipped Class Design](http://www.magnapubs.com/online-seminars/best-practices-in-flipped-class-design-13377-1.html) (Webinar, Magna Publications; March 26, 2015)

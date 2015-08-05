@@ -8,13 +8,20 @@ permalink: /
 Welcome. I am an Associate Professor in the Mathematics Department at [Grand Valley State University](http://www.gvsu.edu) in Allendale, Michigan USA. At this website, you will find information about my teaching, my research and writing projects, and my speaking and consulting work. You can contact me for further information at the links at the bottom of the page.
 
 
-### Current courses at GVSU
+### Spring/Summer courses at GVSU
 
 + __MTH 201: Calculus__ (Section 03; online) 
 
+### Fall 2015 courses at GVSU
+
++ __MTH 225: Discrete Structures for Computer Science 1__ (Sections 01 and 02)
++ __MTH 325: Discrete Structures for Computer Science 2__ (Section 01)
+ 
 ### Upcoming speaking engagements
 
 [Click here](/speaking) for the full schedule. 
 
-+ [Implementing and Assessing Flipped Learning in Face-to-Face and Online Contexts](http://rtalbert.org/hlwhope) (Keynote, Hope College Hybrid Learning Workshop; June 8, 2015, Holland MI)
-+ __Flipped Infrastructures for Inquiry-Based Learning__ (Contibuted talk, 18th Annual Legacy of R. L. Moore/Inquiry Based Learning conference; June 25, 2015, Austin, TX)
++ [Creating Flipped Learning Experiences in the College Mathematics Classroom](http://www.maa.org/meetings/mathfest/program-details/2015/minicourses) (Minicourse, MAA MathFest; August 6 and 8, 2015, Washington DC)
++ __Assessment Strategies for Flipped Learning Experinces__ (Webinar for Magna Publications; September 29, 2015)
++ __Rethinking Class Time Using Accessible Technology__ (Keynote, Kansas City Regional Mathematics Technology Expo; October 2, 2015, Kansas City, MO)
++ __Twenty-First Century Technology Serving Twenty-First Century Learners__ (Keynote and workshop; University of the West Indies, Kingston, Jamaica, October 8, 2015)

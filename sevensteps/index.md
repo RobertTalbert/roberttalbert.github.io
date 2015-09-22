@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Seven Steps to Flipped Learning Design
 permalink: /sevensteps/
 ---
 

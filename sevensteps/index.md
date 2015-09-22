@@ -3,6 +3,8 @@ layout: page
 permalink: /sevensteps/
 ---
 
+### Seven Steps to Flipped Learning Design
+
 >I never teach my pupils. I only attempt to provide the conditions in which they can learn. -- _Albert Einstein_
 
 Creating meaningful lessons, especially in a flipped learning environment, is hard work! It takes experience -- and the ability to learn from mistakes -- to be able to prepare rich, meaningful learning experiences without taking too much time. It helps to have a _framework_ and _guidance_. 

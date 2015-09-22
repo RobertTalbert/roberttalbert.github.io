@@ -23,7 +23,9 @@ Modeled after the Guided Practice system I've used in my flipped classes since 2
 
 The book is in a constant state of update, so check back often. 
 
-+ Download _Seven Steps_ in PDF format
+<!-- ![Drinkers]({{ site.baseurl }}/assets/Wason2.png) -->
+
++ [Download _Seven Steps_ in PDF format]({{ site.baseurl }}/SevenSteps.pdf)
 + Download _Seven Steps_ in MS Word format
 + Download _Seven Steps_ in ePub (Kindle) format
 

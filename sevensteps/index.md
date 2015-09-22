@@ -26,6 +26,6 @@ The book is in a constant state of update, so check back often.
 <!-- ![Drinkers]({{ site.baseurl }}/assets/Wason2.png) -->
 
 + [Download _Seven Steps_ in PDF format]({{ site.baseurl }}/assets/SevenSteps.pdf)
-+ [Download _Seven Steps_ in MS Word format]({{ site.baseurl }/assets/SevenSteps.docx})
-+ [Download _Seven Steps_ in ePub (Kindle) format]({{ site.baseurl }/assets/SevenSteps.epub})
++ [Download _Seven Steps_ in MS Word format]({{ site.baseurl }}/assets/SevenSteps.docx)
++ [Download _Seven Steps_ in ePub (Kindle) format]({{ site.baseurl }}/assets/SevenSteps.epub)
 

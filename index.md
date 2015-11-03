@@ -12,11 +12,8 @@ Welcome. I am an Associate Professor in the Mathematics Department at [Grand Val
 + __MTH 225: Discrete Structures for Computer Science 1__ (Sections 01 and 02)
 + __MTH 325: Discrete Structures for Computer Science 2__ (Section 01)
  
-### Upcoming speaking engagements
+### Speaking engagements
 
 [Click here](/speaking) for the full schedule. 
 
-+ __Assessment Strategies for Flipped Learning Experinces__ (Webinar for Magna Publications; September 29, 2015)
-+ __Rethinking Class Time Using Accessible Technology__ (Keynote, Kansas City Regional Mathematics Technology Expo; October 2, 2015, Kansas City, MO)
-+ __Crafting a Sustainable Career through Better Teaching__ (Address to Missouri Project NExT; October 3, 2015, Kansas City, MO)
-+ __Twenty-First Century Technology Serving Twenty-First Century Learners__ (Keynote and workshop; University of the West Indies, Kingston, Jamaica, October 8, 2015)
+

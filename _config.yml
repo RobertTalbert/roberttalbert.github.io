@@ -12,5 +12,5 @@ plus_username: "+RobertTalbert"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty

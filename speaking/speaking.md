@@ -10,7 +10,7 @@ In addition to my duties as a professor, I serve as a speaker and consultant to 
 
 ### Upcoming speaking/consulting engagements 
  
-+ _How can technology extend the humanity of learners? A dialogue._ With Matt Boelkins. Keynote address, Grand Valley State University Teaching with Technology Symposium, Allendale, MI, March 23, 2015. 
++ _How can technology extend the humanity of learners? A dialogue._ With Matt Boelkins. Keynote address, Grand Valley State University Teaching with Technology Symposium, Allendale, MI, March 23, 2016. 
 
 ### Recent speaking/consulting engagements
 

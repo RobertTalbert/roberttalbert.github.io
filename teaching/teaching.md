@@ -12,15 +12,17 @@ Of particular interest to me in the area of teaching are __flipped learning__ an
  
 ### Current and upcoming courses
 
-+ MTH 201: Calculus 1 (Spring/Summer 2015)
-+ MTH 225: Discrete Structures for Computer Science 1 (Fall 2015)
-+ MTH 325: Discrete Structures for Computer Science 2 (Fall 2015 and Winter 2016)
++ MTH 325: Discrete Structures for Computer Science 2 (Winter 2016)
 + MTH 312: Cryptography and Privacy (Winter 2016)
++ MTH 201: Calculus (Online, Spring/Summer 2016)
 
 ### Recent courses 
 
 These are listed in reverse chronological order. 
 
++ MTH 325: Discrete Structures for Computer Science 2 (Fall 2015)
++ MTH 225: Discrete Structures for Computer Science 1 (Fall 2015)
++ MTH 201: Calculus 1 (Online, Spring/Summer 2015)
 + MTH 325: Discrete Structures for Computer Science 2 (Winter 2015)
 + MTH 410: Modern Algebra 2 (Winter 2015)
 + MTH 201: Calculus 1 (Fall 2014)

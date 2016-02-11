@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-<img src="rtheadshot2015.jpg">
+<img src="rtheadshot2015.jpg" height=200>
 
 <!-- ![Robert Talbert](rtheadshot2015.jpg)  -->
 

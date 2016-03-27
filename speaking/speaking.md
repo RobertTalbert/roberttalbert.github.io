@@ -8,12 +8,17 @@ In addition to my duties as a professor, I serve as a speaker and consultant to 
 
 [Click here for more information on retaining me as a speaker](/speakinginfo) at your upcoming conference or event, or as a consultant for your faculty. 
 
+Here's a talk I gave recently with my GVSU colleague Matt Boelkins on _How can technology extend the humanity of learners? A dialogue._
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zUn8F6Y1K-s?start=985" frameborder="0" allowfullscreen></iframe>
+
 ### Upcoming speaking/consulting engagements 
- 
-+ _How can technology extend the humanity of learners? A dialogue._ With Matt Boelkins. Keynote address, Grand Valley State University Teaching with Technology Symposium, Allendale, MI, March 23, 2016. 
+
++ California Polytechnic University -- Pomona, workshop on flipped learning. October 2016. 
 
 ### Recent speaking/consulting engagements
 
++ [How can technology extend the humanity of learners? A dialogue](https://youtu.be/zUn8F6Y1K-s?t=16m25s). With Matt Boelkins. Keynote address, Grand Valley State University Teaching with Technology Symposium, Allendale, MI, March 23, 2016. 
 + [Twenty-First Century Technology Serving Twenty-First Century Learners](http://rtalbert.org/uwi) (Keynote and workshop; University of the West Indies, Kingston, Jamaica, October 8, 2015)
 + [Crafting a Sustainable Career through Better Teaching](http://rtalbert.org/monext) (Address to Missouri Project NExT; October 3, 2015, Kansas City, MO )
 + [Rethinking Class Time Using Accessible Technology](http://rtalbert.org/kcexpo) (Keynote, Kansas City Regional Mathematics Technology Expo; October 2, 2015, Kansas City, MO)

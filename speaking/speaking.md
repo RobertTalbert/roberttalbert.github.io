@@ -10,7 +10,7 @@ In addition to my duties as a professor, I serve as a speaker and consultant to 
 
 Here's a talk I gave recently with my GVSU colleague Matt Boelkins on _How can technology extend the humanity of learners? A dialogue._
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zUn8F6Y1K-s?start=985" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zUn8F6Y1K-s?start=998" frameborder="0" allowfullscreen></iframe>
 
 ### Upcoming speaking/consulting engagements 
 

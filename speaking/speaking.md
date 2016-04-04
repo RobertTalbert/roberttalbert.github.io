@@ -14,7 +14,7 @@ Here's a talk I gave recently with my GVSU colleague Matt Boelkins on _How can t
 
 ### Upcoming speaking/consulting engagements 
 
-+ California Polytechnic University -- Pomona, workshop on flipped learning. October 2016. 
++ California Polytechnic University -- Pomona, workshop on flipped learning. June 2016. 
 
 ### Recent speaking/consulting engagements
 

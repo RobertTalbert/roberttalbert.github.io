@@ -1,12 +1,12 @@
 # main text of home
 name: Robert Talbert, Ph.D.
-bio: 'Mathematician | Teacher | Coder | Dad'
+bio: 'I teach people how to learn math.'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: http://rtalbert.org
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -25,8 +25,8 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: RobertTalbert
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest

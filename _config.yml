@@ -27,16 +27,16 @@ disqus: mydisqus
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: RobertTalbert
-# google: mygoogle
+ google: RobertTalbert
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+ linkedin: mylinkedin
+#youtube: myyoutube
+#spotify: myspotify
+github: RobertTalbert
+medium: RobertTalbert
+#vimeo: myvimeo
+email: talbertr@gvsu.edu
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

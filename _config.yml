@@ -1,6 +1,6 @@
 # main text of home
-name: Robert Talbert, Ph.D.
-bio: 'I teach people how to learn math.'
+name: Robert Talbert, PhD.
+bio: 'Mathematician. Teacher. Speaker. Writer. Nerd. Dad.'
 
 # if it's an external image, update below for true
 external-image: false
@@ -49,6 +49,7 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
+teaching: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true

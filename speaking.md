@@ -60,7 +60,7 @@ Just email me at [talbertr@gvsu.edu](mailto:talbertr@gvsu.edu) and let me know t
 
 + __What's the context?__ Is this event part of a larger event, like a conference or multiple-day retreat? Is there a specific issue you'd like me to address? Are there any details about your faculty and institution that would be helpful for me to know?
 + __What's the outcome?__ When the talk or workshop is done, what would you like to have accomplished? Where would you like your faculty to be, or what do you want them to know or be motivated to do, as a result of the event? 
-+ __What's the location and what's the time frame?__ An exact date is most helpful but if it's pretty far off in the future, just a general time frame is OK. 
++ __What's the location and what's the time frame?__ An exact date is most helpful but if it's pretty far off in the future, just a general time frame is OK. My current schedule for events is at the bottom of this page. 
 
 ## Fee structure 
 
@@ -85,5 +85,13 @@ These fees are also flexible. I'm always happy to negotiate these costs in the c
 
 For travel considerations, I am located near [Grand Rapids, Michigan USA](https://www.google.com/maps?ll=42.96125,-85.655719&q=42.96125,-85.655719&hl=en&t=m&z=12). For engagements within [300 miles of Grand Rapids](http://www.freemaptools.com/radius-around-point.htm?clat=42.9633599&clng=-85.66808630000003&r=482.8032001844076&lc=FFFFFF&lw=1&fc=00FF00&fs=true), I typically rent a vehicle and drive. Otherwise I fly out of the [Gerald Ford International Airport](http://www.grr.org/) (GRR) and connect via the [Detroit Metropolitan Airport](http://www.metroairport.com/) (DTW) if necessary. 
 
+## Upcoming speaking and workshop engagements 
 
+For information about how to hire me for speaking or workshop engagements, please see my Speaking page. 
+
+
+| Engagement | Host | Location | Dates | 
+| :----------| :--- | :------- | :---- | 
+| Keynote address: "The self-regulated life" | California Polytechnic University | Pomona, CA | June 13, 2016 | 
+| Workshop: "Flipped learning: A gateway to self-regulated learning" | California Polytechnic University | Pomona, CA | June 13, 2016 | 
 

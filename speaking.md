@@ -11,7 +11,7 @@ In addition to being a professor, I often give talks and workshops to college an
 + Self-regulated learning 
 + Teaching with technology, including classroom response systems (clickers)
 
-If you are in in higher education and are looking for someone to come and work with your faculty on improving teaching and learning in any of these areas --- or a combination of them, or something related to them --- 
+If you are in in higher education and are looking for someone to come and work with your faculty on improving teaching and learning in any of these areas --- or a combination of them, or something related to them --- I'd love to work with you. 
 
 ## Experience 
 

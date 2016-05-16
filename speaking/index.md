@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /speakinginfo/
+permalink: /speaking/
 ---
 
 My experiences with speaking and consulting have centered on __flipped learning and the flipped classroom__, __self-regulated learning in university STEM courses__, and the __integration of technology in teaching__. My past experiences include day-long workshops on the flipped classroom with STEM faculty at a two-year college; aculty retreats with 100+ faculty members; professional development sessions with high school mathematics teachers; training sessions for the use of classroom response systems ("clickers"); webinars; and keynote addresses in the US, Canada, and the UK. All of these experiences have been centered on providing __constructive, practical help with a positive attitude to education professionals who seek to improve student learning through student-centered pedagogies__. 

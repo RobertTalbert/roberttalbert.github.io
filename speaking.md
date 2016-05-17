@@ -77,7 +77,7 @@ My base honorarium requests are as follows:
 | 45-minute keynote-style address | US$750 | 
 | 3-hour workshop | US$1500 | 
 | 45-minute keynote bundled with 3-hour workshop | US$2000 | 
-| 6-hour worskshop | US$2500 | 
+| 6-hour workshop | US$2500 | 
 
 These are the most commonly requested events that I get. I'm flexible, though, so if one of these doesn't fit your needs, just tell me what you have in mind and we'll discuss it. 
 

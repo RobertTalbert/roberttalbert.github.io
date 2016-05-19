@@ -83,7 +83,7 @@ These are the most commonly requested events that I get. I'm flexible, though, s
 
 These fees are also flexible. I'm always happy to negotiate these costs in the context of your event and budget. 
 
-For travel considerations, I am located near [Grand Rapids, Michigan USA](https://www.google.com/maps?ll=42.96125,-85.655719&q=42.96125,-85.655719&hl=en&t=m&z=12). For engagements within [300 miles of Grand Rapids](http://www.freemaptools.com/radius-around-point.htm?clat=42.9633599&clng=-85.66808630000003&r=482.8032001844076&lc=FFFFFF&lw=1&fc=00FF00&fs=true), I typically rent a vehicle and drive. Otherwise I fly out of the [Gerald Ford International Airport](http://www.grr.org/) (GRR) and connect via the [Detroit Metropolitan Airport](http://www.metroairport.com/) (DTW) if necessary. 
+For travel considerations, I am located near [Grand Rapids, Michigan USA](https://www.google.com/maps?ll=42.96125,-85.655719&q=42.96125,-85.655719&hl=en&t=m&z=12). For engagements within [300 miles of Grand Rapids](/assets/images/gr200.png), I typically rent a vehicle and drive. Otherwise I fly out of the [Gerald Ford International Airport](http://www.grr.org/) (GRR) and connect via the [Detroit Metropolitan Airport](http://www.metroairport.com/) (DTW) if necessary. 
 
 ## Upcoming speaking and workshop engagements 
 

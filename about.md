@@ -5,6 +5,8 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+__For information on my speaking and consulting, please go to [my Speaker page](http://rtalbert.org/speaking).__
+
 I'm Robert Talbert, and I am an Associate Professor in the Mathematics Department at [Grand Valley State University](http://www.gvsu.edu) in Allendale, Michigan USA. 
 
 As a professor, I teach courses mainly for computer scientists (discrete structures, linear algebra, cryptography) and I also teach our department's online Calculus course in the summers. My current and upcoming classes are: 

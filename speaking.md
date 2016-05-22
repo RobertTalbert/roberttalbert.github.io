@@ -94,4 +94,5 @@ For information about how to hire me for speaking or workshop engagements, pleas
 | :----------| :--- | :------- | :---- | 
 | Keynote address: "The self-regulated life" | California Polytechnic University | Pomona, CA | June 13, 2016 | 
 | Workshop: "Flipped learning: A gateway to self-regulated learning" | California Polytechnic University | Pomona, CA | June 13, 2016 | 
+| Session: "Making learning visible with student-generated video content" | Teaching Professor Technology Conference | Atlanta, GA | October 1, 2016 |
 

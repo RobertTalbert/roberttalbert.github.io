@@ -15,7 +15,7 @@ As a professor, I teach courses mainly for computer scientists (discrete structu
 + __Fall 2016:__ MTH 225 (Discrete Structures for Computer Science 1), Sections 01 and 02; MTH 325 (Discrete Structures for Computer Science 2), Section 01
 + __Winter 2017:__ MTH 225 (Discrete Structures for Computer Science 1), Section 03; MTH 325 (Discrete Structures for Computer Science 2), Sections 02 and 03
 
-I do research primarily in the scholarship of teaching and learning, focusing on flipped learning, alternative grading practices, and teaching with technology. For a comprehensive list of my publications, [please see my _curriculum vitae_](/assets/TalbertCV-2016a.pdf) [PDF]. 
+I do research primarily in the scholarship of teaching and learning, focusing on flipped learning, alternative grading practices, and teaching with technology. For a comprehensive list of my publications and more about my background and work, [please see my _curriculum vitae_](/assets/TalbertCV-2016a.pdf) [PDF]. 
 
 I'm the author of _Flipped Learning in the University: A User's Guide_, coming from Stylus Publishing in 2017. 
 

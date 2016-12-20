@@ -92,6 +92,9 @@ For information about how to hire me for speaking or workshop engagements, pleas
 
 | Engagement | Host | Location | Dates | 
 | :----------| :--- | :------- | :---- | 
+| Computational thinking in undergraduate discrete mathematics using Python
+and Jupyter notebooks | AMS/MAA Joint Meetings | Atlanta, GA | Jan 7, 2017 | 
+| Making student learning visible with student-created video (_with Shelly Smith_) | AMS/MAA Joint Meetings | Atlanta, GA | Jan 8, 2017 | 
 | Creating active learning environments in university mathematics courses with flipped learning (workshop) | St. Michael's College and MAA Northeastern Section | Colchester, VT | Feb 17, 2017  |
 | Designing courses for significant flipped learning experiences (workshop) | St. Michael's College | Colchester, VT | Feb 18, 2017 | 
 

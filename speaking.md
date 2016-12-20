@@ -92,5 +92,6 @@ For information about how to hire me for speaking or workshop engagements, pleas
 
 | Engagement | Host | Location | Dates | 
 | :----------| :--- | :------- | :---- | 
-| Session: "Making learning visible with student-generated video content" | [Teaching Professor Technology Conference](http://www.magnapubs.com/2016-teaching-professor-technology-conference/) | Atlanta, GA | October 1, 2016 |
+| Creating active learning environments in university mathematics courses with flipped learning | St. Michael's College and MAA Northeastearn Section | Colchester, VT | Feb 17, 2017  |
+| Designing courses for significant flipped learning experiences | St. Michael's College | Colchester, VT | Feb 18, 2017 | 
 

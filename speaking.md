@@ -92,6 +92,6 @@ For information about how to hire me for speaking or workshop engagements, pleas
 
 | Engagement | Host | Location | Dates | 
 | :----------| :--- | :------- | :---- | 
-| Creating active learning environments in university mathematics courses with flipped learning | St. Michael's College and MAA Northeastern Section | Colchester, VT | Feb 17, 2017  |
-| Designing courses for significant flipped learning experiences | St. Michael's College | Colchester, VT | Feb 18, 2017 | 
+| Creating active learning environments in university mathematics courses with flipped learning (workshop) | St. Michael's College and MAA Northeastern Section | Colchester, VT | Feb 17, 2017  |
+| Designing courses for significant flipped learning experiences (workshop) | St. Michael's College | Colchester, VT | Feb 18, 2017 | 
 

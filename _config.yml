@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Robert Talbert"
+  name             : # "Robert Talbert"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I teach people how to learn math."
   location         : "Grand Rapids, MI"
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Detroit"
 
 
 # Plugins

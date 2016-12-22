@@ -13,7 +13,7 @@ name                     : "Robert Talbert"
 description              : "Mathematics, Education, Technology, Productivity"
 url                      : https://rtalbert.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : RobertTalbert/roberttalbert.github.io 
+repository               : # RobertTalbert/roberttalbert.github.io 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

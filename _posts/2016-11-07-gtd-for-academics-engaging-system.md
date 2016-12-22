@@ -4,8 +4,6 @@ excerpt: "In this second post on GTD for academics, we look at the question of k
 tags: [higher-ed, GTD, professional, productivity]
 comments: true
 share: true
-header: 
-
 image:
   feature: puzzle.jpg
   credit: Kevin Dooley

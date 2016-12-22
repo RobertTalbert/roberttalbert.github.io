@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Robert Talbert"
-  avatar           : # "/assets/images/bio-photo.jpg"
-  bio              : "Mathematician | Educator | Geek | Writer | Speaker | Dad | Cat Herder"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I teach people how to learn math."
   location         : "Grand Rapids, MI"
   email            : robert.talbert@gmail.com
   uri              : "http://rtalbert.org"

@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Robert Talbert"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : # "/assets/images/bio-photo.jpg"
   bio              : "Mathematician | Educator | Geek | Writer | Speaker | Dad | Cat Herder"
   location         : "Grand Rapids, MI"
   email            : robert.talbert@gmail.com

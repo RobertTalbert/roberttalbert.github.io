@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Specifications grading with the EMRF rubric"
+date:   2016-01-31 17:54:00   
+author: Robert Talbert
+tags: "emrf"
+---
+
+A little over one year ago, [I make a decisive break with traditional percentage-based grading systems](http://chronicle.com/blognetwork/castingoutnines/2015/01/19/putting-specs-grading-to-work/) and embraced [specifications grading](https://www.utimes.pitt.edu/?p=30598). I was motivated by experiences in my calculus classes where, after over 20 years of using traditional grading, I was finally fed up with the way it gives false positives and false negatives, stresses students out, and disadvantages students who need more flexibility and more choices to show evidence of learning. 
+
+That first implementation in January 2015, which I call "Iteration 1", had lots of bugs, but it was still the best experience I'd ever had with grading up to that point. Iteration 2 was for an online course, and although I used specs grading it was so different due to being online that it's hard to compare it with Iteration 1. Iteration 3 was in the fall, and [as I noted here before it was worse than either Iterations 1 or 2 because I made the system too complicated](http://rtalbert.org/blog/2015/grading-simplicity-and-complexity/). What I want to talk about now is Iteration 4, which is what I am currently using and I think it's the closest I've gotten so far to the ideal grading experience for both myself and for students. 
+
+In this post I want to focus on something I stumbled across that makes Iteration 4 work so far, and it's the grading rubric I am using for the major pieces of student work. It's known as the __EMRF rubric__ and it's due to [Rodney Stutzman and Kimberly Race](http://eric.ed.gov/?id=EJ717675). It came up in a discussion on the [Standards-Based/Specifications Grading community on Google+](https://plus.google.com/communities/117099673102877564377) (which all the cool kids have joined, so get on that) and once I saw it, I knew that this was the rubric I had been looking for. 
+
+![]({{ site.baseurl }}/assets/emrf.jpg)
+
+I've learned that in this style of grading, __it really pays to have a simple, visual standard grading rubric for all major assignments.__ If you have one, then it's helpful for students because it provides transparency and a way for students to self-evaluate; and for you, it provides some measure of consistency in grading without having to agonize about giving the same number of points for similar work. Classic Linda Nilson-style specs grading uses a two-level rubric -- Pass/Fail. I instituted a three-level rubric for grading proofs and other complex problem solving tasks -- Pass/Progressing/Fail. (I changed "Fail" to "No Pass".) The middle layer of the rubric is for work that doesn't quite meet the specifications I set out, but it's close, and pragmatically the difference is that students have to spend a token to revise and resubmit "No Pass" work but they can revise "Progressing" work for free. 
+
+What I found was missing from this three-level rubric was a designation for really excellent work. The "Pass" level was synonymous with "good enough", and in my courses this is exactly what I was getting -- "good enough". There wasn't much incentive for excellence. Yes, I could set the bar very high for "good enough" and call that "Passing", but it always felt to me that there needed to be something like "Pass+" in my system, and then the requirements to earn an A in the course would require a certain number of instances of really excellent work. 
+
+The EMRF rubric does this. It is basically a Pass/Fail rubric with one extra layer on each side. In my specs grading system in Iteration 4, anything that registers as E or M is considered "Pass", and [I have laid out in mind-numbing detail in a specifications document](https://gist.github.com/RobertTalbert/641c29bd9f3fc60cba93) what it takes to attain these levels. Likewise anything that grades out to R or F is considered "No Pass" or (as I prefer) "Not Yet" or "Try Again". 
+
+In my Discrete Structures courses, students work on three kinds of assignments -- __Assessments__ (short timed in-class quizzes that measure proficiency on a single one of 20 different learning targets for the semester), __Miniprojects__ (which apply basic knowledge to new problems), and __Course Management__ tasks that include preparation activities, daily homework, and weekly quizzes over the syllabus. Assessments and Miniprojects are graded on the EMRF rubric while course management tasks are graded Pass/Fail, usually on the basis of just completeness and effort. To get an "A" in the class, students must: 
+
++ Earn "Pass" grades (E or M) on all 20 learning target assessments, then provide a second item of evidence of proficiency for 10 of those 20 learning targets, and earn at least five grades of E in the process. 
++ Earn "Pass" grades (E or M) on 8 Miniprojects (out of 10--15 in all) including at least two grades of E. 
++ Pass at least 90% of all the course management tasks. 
+
+The "second item of evidence of proficiency" can be taking a timed assessment a second time and passing it, or doing an oral assessment in the office during office hours, or making a case that the work on a Miniproject shows evidence of proficiency. 
+
+For a "B", students need to Pass all 20 assessments, provide secondary evidence for 5 learning targets, and earn at least two E grades in the process. They must also Pass 6 Miniprojects and earn at least one E grade; and pass 80% of the course management tasks. For "C", students have to Pass all 20 assessments, and provide secondary evidence on at least 3 of these and there is no requirement for E grades. And "C" students also must Pass 4 miniprojects, again with no quota for E grades, and pass 60% of the course management tasks. There are also contingencies for D and F grades and a set of rules for determining plus/minus grades. 
+
+This, I think, captures what I want from grading -- students choose the grade they want to earn and that grade sets the agenda for their work in the class. Baseline proficiency is considered to be showing one piece of evidence that you are proficient with all the major skills objectives in the course, turning in about 1/3 of the available miniprojects assigned, and giving a reasonable amount of attention to course management. That's a "C". To get higher than a C, you have to demonstrate work that shows both more depth (secondary evidence of proficiency on learning targets), more breadth (more miniprojects), and some evidence of true excellence (the "E" quotas). 
+
+The difference between EMRF and straight Pass/Fail is the kind of feedback the letter communicates in EMRF. A grade of M means _This meets expectations_ but it also honestly commnicates that it could still be better. For many students who get an M on an assignment, the existence of an E will impel them to retry an assignment to raise their grade even though it was "good enough" the first time. Likewise, a grade of R or F _means_ the same thing in the grading system -- you still have to revise and resubmit if you want the work to be counted -- but it _communicates_ two different things, an "R" saying _There is partial understanding here, but something important is missing_ and an "F" says _There was too much missing to really know if you understand_. 
+
+I do not like the letter "F" in this rubric, though, because of the emotional baggage attached to it. People assume it means "fail", and it sort of _does_ mean that, but then students too often see failure with such negativity and finality that they miss the message that they can try again. I would probably rebrand that level, maybe "I" for "Incomplete" or "S" for "Significantly flawed". 
+
+In the next post I'll show some examples of how I've graded with this rubric and how we've included it in some class discussions about the quality of work and professional standards. 

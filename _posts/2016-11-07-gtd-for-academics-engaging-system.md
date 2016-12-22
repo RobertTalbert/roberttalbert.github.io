@@ -8,6 +8,9 @@ image:
   feature: puzzle.jpg
   credit: Kevin Dooley
   creditlink: https://www.flickr.com/photos/pagedooley/
+tags:
+  - GTD
+  - Productivity
 ---
 
 This is the second post in a series on the [Getting Things Done ](http://gettingthingsdone.com/) or **GTD** system of task/time/project management, from the standpoint of higher education. In the [first post ](http://rtalbert.org/blog/2016/gtd-for-academics-setting-stage), we set the stage with a couple of anecdotes that illustrate two reasons why I think having a system for managing your time, tasks, and projects is so important. In this post, I want to discuss the idea of a *system* a little more. What do we mean by this? Why do we need a system at all? What does a good system look like? And why does GTD meet the requirements of a good system?

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "GTD for Academics: Engaging the system"
 excerpt: "In this second post on GTD for academics, we look at the question of knowing what to do with our time, why a system for helping us decide is important, and what a good system looks like -- and doesn't look like."
 tags: [higher-ed, GTD, professional, productivity]

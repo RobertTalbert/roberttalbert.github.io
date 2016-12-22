@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Robert Talbert, PhD"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Robert Talbert"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Robert Talbert"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Mathematician | Educator | Geek | Writer | Speaker | Dad | Cat Herder"
+  location         : "West Michigan"
   email            : robert.talbert@gmail.com
   uri              : 
   bitbucket        :
@@ -90,9 +90,9 @@ author:
   facebook         :
   foursquare       :
   github           : RobertTalbert
-  google_plus      :
+  google_plus      : RobertTalbert
   keybase          :
-  instagram        :
+  instagram        : rtalbert 
   lastfm           :
   linkedin         : RobertTalbert
   pinterest        :

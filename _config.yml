@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Robert Talbert"
+  avatar           : # "/assets/images/bio-photo.jpg"
+  bio              : "Mathematician | Educator | Geek | Writer | Speaker | Dad | Cat Herder"
+  location         : "Grand Rapids, MI"
+  email            : robert.talbert@gmail.com
+  uri              : "http://rtalbert.org"
   bitbucket        :
   codepen          :
   dribbble         :

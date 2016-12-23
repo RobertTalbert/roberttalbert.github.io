@@ -2,15 +2,10 @@
 permalink: /about/
 title: "About"
 
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      
+values:
+  layout: single
+  author_profile: true
+
 modified: 2016-11-03T11:55:22-04:00
 ---
 

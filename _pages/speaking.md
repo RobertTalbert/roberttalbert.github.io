@@ -39,7 +39,6 @@ And here are some presentations from select past engagements:
 + [Self-Regulated Learning in the Calculus Classroom](http://roberttalbert.github.io/advance) Workshop, Syracuse University Project Advance. (Syracuse and New York City, NY; May 4--5, 2015)
 + [Flipping the University Classroom: A Gateway to Lifelong Learning](http://roberttalbert.github.io/cardiffuniv) Keynote address, Workshop on Innovations in University Mathematics Teaching. (Cardiff, Wales UK; July 7, 2014)
 
-For a complete list of talks and workshops, [please see my _curriculum vitae_](/assets/TalbertCV-2016a.pdf) [PDF].
 
 ## What you can expect 
 
@@ -86,8 +85,6 @@ These fees are also flexible. I'm always happy to negotiate these costs in the c
 For travel considerations, I am located near [Grand Rapids, Michigan USA](https://www.google.com/maps?ll=42.96125,-85.655719&q=42.96125,-85.655719&hl=en&t=m&z=12). For engagements within 300 miles of Grand Rapids, I typically rent a vehicle and drive. Otherwise I fly out of the [Gerald Ford International Airport](http://www.grr.org/) (GRR) and connect via the [Detroit Metropolitan Airport](http://www.metroairport.com/) (DTW) if necessary. 
 
 ## Upcoming speaking and workshop engagements 
-
-For information about how to hire me for speaking or workshop engagements, please see my Speaking page. 
 
 
 | Engagement | Host | Location | Dates | 

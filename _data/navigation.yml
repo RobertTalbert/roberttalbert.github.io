@@ -6,6 +6,8 @@ main:
     url: /speaking/
   - title: "About"
     url: /about/
+  - title: "GVSU"
+    url: /gvsu/
 
 
 

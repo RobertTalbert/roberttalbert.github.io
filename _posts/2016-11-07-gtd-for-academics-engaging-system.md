@@ -9,7 +9,7 @@ image:
   credit: Kevin Dooley
   creditlink: https://www.flickr.com/photos/pagedooley/
 categories:
-  - Productivity
+  - productivity
 tags:
   - GTD
 ---

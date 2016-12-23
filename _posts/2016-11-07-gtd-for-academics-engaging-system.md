@@ -8,8 +8,6 @@ image:
   feature: puzzle.jpg
   credit: Kevin Dooley
   creditlink: https://www.flickr.com/photos/pagedooley/
-categories:
-  - Productivity
 tags:
   - GTD
 ---

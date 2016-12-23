@@ -3,6 +3,8 @@ title: "About"
 permalink: /about/
 ---
 
+![image-left](/assets/images/rt-table.jpg){: .align-left}
+
 Hi there. I'm Robert Talbert and welcome to my website. 
 
 I am an Associate Professor in the [Mathematics Department](http://www.gvsu.edu/math/) at [Grand Valley State University](http://www.gvsu.edu/) in Allendale, Michigan USA. In this position I teach 2-3 classes a semester, conduct research (mostly in the teaching and learning of undergraduate mathematics, but sometimes in pure mathematics), and serve the university and the broader community in a number of ways. 

@@ -1,55 +1,82 @@
 ---
 permalink: /about/
 title: "About"
-
-values:
-  layout: single
-  author_profile: true
-
+excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+layouts_gallery:
+  - url: /assets/images/mm-layout-splash.png
+    image_path: /assets/images/mm-layout-splash.png
+    alt: "splash layout example"
+  - url: /assets/images/mm-layout-single-meta.png
+    image_path: /assets/images/mm-layout-single-meta.png
+    alt: "single layout with comments and related posts"
+  - url: /assets/images/mm-layout-archive.png
+    image_path: /assets/images/mm-layout-archive.png
+    alt: "archive layout example"
 modified: 2016-11-03T11:55:22-04:00
 ---
 
-__For information on my speaking and consulting, please go to [my Speaker page](http://rtalbert.org/speaking).__
+Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
-I'm Robert Talbert, and I am an Associate Professor in the Mathematics Department at [Grand Valley State University](http://www.gvsu.edu) in Allendale, Michigan USA. 
+{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
-As a professor, I teach courses mainly for computer scientists (discrete structures, linear algebra, cryptography) and I also teach our department's online Calculus course in the summers. My current and upcoming classes are: 
+[Install the Theme]({{ "/docs/quick-start-guide/" | absolute_url }}){: .btn .btn--success .btn--large}
 
-+ __Spring/Summer 2016:__ MTH 201 (Calculus), Section 02 (online)
-+ __Fall 2016:__ MTH 225 (Discrete Structures for Computer Science 1), Sections 01 and 02; MTH 325 (Discrete Structures for Computer Science 2), Section 01
-+ __Winter 2017:__ MTH 225 (Discrete Structures for Computer Science 1), Section 03; MTH 325 (Discrete Structures for Computer Science 2), Sections 02 and 03
+## Notable Features
 
-I do research primarily in the scholarship of teaching and learning, focusing on flipped learning, alternative grading practices, and teaching with technology. For a comprehensive list of my publications and more about my background and work, [please see my _curriculum vitae_](/assets/TalbertCV-2016a.pdf) [PDF]. 
+- Compatible with Jekyll 3.x and GitHub Pages
+- Support for Jekyll's built-in Sass/SCSS preprocessor
+- Several responsive layout options (single, archive index, splash, and paginated home page)
+- SEO optimized with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
+- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
+- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman](https://staticman.net/), and custom).
+- [Google Analytics](https://www.google.com/analytics/) support.
+- UI localized text in English (default), Brazilian Portguese, Chinese, French, German, Italian, Spanish, and Turkish
 
-I'm the author of _Flipped Learning in the University: A User's Guide_, coming from Stylus Publishing in 2017. 
+## Demo Pages
 
-You can read more of what I'm thinking about, at my blog [Casting Out Nines](http://rtalbert.org/blog). 
+| Name                                        | Description                                           |
+| ------------------------------------------- | ----------------------------------------------------- |
+| [Post with Header Image][header-image-post] | A post with a large header image. |
+| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
+| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
+| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
+| [Sample Collection Page][sample-collection] | Single page from a collection. |
+| [Categories Archive][categories-archive] | Posts grouped by category. |
+| [Tags Archive][tags-archive] | Posts grouped by tags. |
 
-I live in Allendale, 20 minutes from Grand Rapids and 20 minutes from the beaches of Lake Michigan with my wife, three kids and three cats. 
+For even more demo pages check the [posts archive][year-archive].
 
+[header-image-post]: {{ "" | absolute_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
+[gallery-post]: {{ "" | absolute_url }}{% post_url 2010-09-09-post-gallery %}
+[html-tags-post]: {{ "" | absolute_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
+[syntax-post]: {{ "" | absolute_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
+[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | absolute_url }}
+[categories-archive]: {{ "/categories/" | absolute_url }}
+[tags-archive]: {{ "/tags/" | absolute_url }}
+[year-archive]: {{ "/year-archive/" | absolute_url }}
 
-## Upcoming speaking and workshop engagements 
+---
 
-For information about how to hire me for speaking or workshop engagements, [please see my Speaking page](http://rtalbert.org/speaking). 
+## Credits
 
+### Icons + Demo Images:
 
-| Engagement | Host | Location | Dates | 
-| :----------| :--- | :------- | :---- | 
-| Keynote address: "The self-regulated life" | California Polytechnic University | Pomona, CA | June 13, 2016 | 
-| Workshop: "Flipped learning: A gateway to self-regulated learning" | California Polytechnic University | Pomona, CA | June 13, 2016 | 
-| Session: "Making learning visible with student-generated video content" | [Teaching Professor Technology Conference](http://www.magnapubs.com/2016-teaching-professor-technology-conference/) | Atlanta, GA | October 1, 2016 |
+- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+- [Unsplash](https://unsplash.com/)
 
+### Other:
 
-## Biographical sketch 
+- [Jekyll](http://jekyllrb.com/)
+- [jQuery](http://jquery.com/)
+- [Susy](http://susy.oddbird.net/)
+- [Breakpoint](http://breakpoint-sass.com/)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+- [FitVids.JS](http://fitvidsjs.com/)
+- Greedy Navigation - [lukejacksonn](http://codepen.io/lukejacksonn/pen/PwmwWV)
+- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+- [Stickyfill](https://github.com/wilddeer/stickyfill)
 
-Robert Talbert is an Associate Professor in the Mathematics Department at [Grand Valley State University](http://www.gvsu.edu) in Allendale, Michigan. He earned a PhD. in Mathematics from Vanderbilt University in 1997 in algebraic topology and category theory under the direction of Efstratios Prassidis. Prior to joining the GVSU faculty in 2011, he was on the faculty at Franklin College from 2001--2011 and Bethel College (Indiana) from 1997--2001. 
+---
 
-Robert is an internationally recognized writer, speaker, and workshop facilitator in teaching and learning issues, with special emphases in flipped learning, alternative grading practices, and teaching with technology. He has delivered addresses and led workshops at colleges and universities in the United States, Canada, the United Kingdom, France, and Jamaica. He has authored or co-authored several research articles on teaching and learning, and he writes on issues involving teaching, learning, mathematics, technology, and higher education at his blog [Casting Out Nines](http://rtalbert.org/blog). His first book, _Flipped Learning in the University: A Users' Guide_ will be published by [Stylus Publishing](https://styluspub.presswarehouse.com/Books/Features.aspx) in 2017. 
-
-While a graduate student at Vanderbilt, Robert received the B.F. Bryant Prize for Excellence in Teaching and the Outstanding Teaching Assistant Award. At GVSU, he received the [Pew Teaching with Technology Award](https://www.gvsu.edu/ftlc/pew-teaching-with-technology-award-60.htm) and was GVSU's nominee for Michigan Distinguished Professor of the Year in 2015. Also in 2015, Robert received the Distinguished Educator and Service Award from the [American Society for Engineering Education](http://www.asee.org) Mathematics Division.
-
-Here is a short video made by GVSU upon Robert's receipt of the Pew Teaching with Technology Award: 
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/0xMX0XpagGQ" frameborder="0" allowfullscreen></iframe>
-
-Robert lives in Allendale, Michigan with his wife, three young children, and three cats. He enjoys cooking, reading, bicycling, and soccer (watching, not playing). You can follow Robert [on Twitter](http://twitter.com/RobertTalbert) and other social media outlets. 
+Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.

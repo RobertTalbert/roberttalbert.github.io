@@ -19,7 +19,7 @@ In the book, you'll learn:
 + How do I handle situations where students don't do their work? 
 + Should I flip my classroom if I'm untenured? 
 
-There's much more in the book. You can pre-order it using the link below, and it should hit the shelves in April or May of 2017. 
+There's much more in the book, and I'm really excited to get it into the hands of as many college faculty as possible. You can pre-order it using the link below, and it should hit the shelves in April or May of 2017. 
 
 [PRE-ORDER THE BOOK](https://sty.presswarehouse.com/Books/BookDetail.aspx?productID=468277){: .btn .btn--info}
 

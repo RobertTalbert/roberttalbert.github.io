@@ -2,7 +2,7 @@
 title: "Speaking"
 permalink: /speaking/
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+{% include toc %}
 
 In addition to being a professor, I often give talks and workshops to college and university faculty on teaching and learning issues. My emphasis is on __providing research-based, yet practical help to college faculty on improving student learning, delivered with a lot of energy and a positive, student-centered attitude.__ My areas of emphasis include: 
 

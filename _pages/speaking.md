@@ -76,14 +76,14 @@ My base honorarium requests are as follows:
 |:--------------|:--- |
 | 45-minute keynote-style address | US$750 | 
 | 3-hour workshop | US$1500 | 
-| 45-minute keynote bundled with 3-hour workshop | US$2000 | 
+| "Value pack" 45-minute keynote bundled with 3-hour workshop | US$2000 | 
 | 6-hour workshop | US$2500 | 
 
 These are the most commonly requested events that I get. I'm flexible, though, so if one of these doesn't fit your needs, just tell me what you have in mind and we'll discuss it. 
 
 These fees are also flexible. I'm always happy to negotiate these costs in the context of your event and budget. 
 
-For travel considerations, I am located near [Grand Rapids, Michigan USA](https://www.google.com/maps?ll=42.96125,-85.655719&q=42.96125,-85.655719&hl=en&t=m&z=12). For engagements within [300 miles of Grand Rapids](/assets/images/gr200.png), I typically rent a vehicle and drive. Otherwise I fly out of the [Gerald Ford International Airport](http://www.grr.org/) (GRR) and connect via the [Detroit Metropolitan Airport](http://www.metroairport.com/) (DTW) if necessary. 
+For travel considerations, I am located near [Grand Rapids, Michigan USA](https://www.google.com/maps?ll=42.96125,-85.655719&q=42.96125,-85.655719&hl=en&t=m&z=12). For engagements within 300 miles of Grand Rapids, I typically rent a vehicle and drive. Otherwise I fly out of the [Gerald Ford International Airport](http://www.grr.org/) (GRR) and connect via the [Detroit Metropolitan Airport](http://www.metroairport.com/) (DTW) if necessary. 
 
 ## Upcoming speaking and workshop engagements 
 

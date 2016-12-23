@@ -1,13 +1,12 @@
 # main links
 main:
-  #- title: "Book"
-  #  url: 
+  - title: "Book"
+    url: /book/
   - title: "Speaking"
     url: /speaking/
   - title: "About"
     url: /about/
-  - title: "Contact"
-    url: /contact/
+
 
 
   #- title: "Quick-Start Guide"

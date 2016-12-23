@@ -1,5 +1,5 @@
 ---
-layout: page
+title: "Speaking"
 permalink: /speaking/
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})

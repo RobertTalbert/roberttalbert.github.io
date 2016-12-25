@@ -59,4 +59,6 @@ A final thing that's changed, is that I am retiring the _Casting Out Nines_ bran
 
 And that's it. Hold me accountable for filling this space all throughout 2017, and I'll try to make it happen. As always your comments and suggestions are welcome. And, I appreciate your taking the time out to read this stuff. 
 
+---
 
+<small>Image: https://upload.wikimedia.org/wikipedia/commons/1/18/Happy_new_year!_(8332272701).jpg</small>

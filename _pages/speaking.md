@@ -66,7 +66,7 @@ Just email me at [talbertr@gvsu.edu](mailto:talbertr@gvsu.edu) and let me know t
 When contracted to do a speaking or workshop engagement, my expectations for funding are: 
 
 + The host will pay for all __food, travel, and lodging__ expenses. For travel considerations, I am located near [Grand Rapids, Michigan USA](https://www.google.com/maps?ll=42.96125,-85.655719&q=42.96125,-85.655719&hl=en&t=m&z=12). For engagements within 300 miles of Grand Rapids, I typically rent a vehicle and drive. Otherwise I fly out of the [Gerald Ford International Airport](http://www.grr.org/) (GRR) and connect via the [Detroit Metropolitan Airport](http://www.metroairport.com/) (DTW) if necessary. 
-+ I also request an __honorarium__ in addition to those expenses. How much is it? It depends on your needs, and on other factors that vary from one group to another. So, please contact me using the email or social media links in the sidebar if you want to discuss this. 
++ I also request an __honorarium__ in addition to those expenses. How much is it? It depends on your needs, and on other factors that vary from one group to another. So, please contact me using the email or social media links in the sidebar if you're interested, and let's talk about it. 
 
 <!-- My base charge for any speaking or workshop engagements consists of: 
 

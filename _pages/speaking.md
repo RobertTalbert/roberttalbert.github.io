@@ -55,7 +55,7 @@ Once your organization has retained me as a speaker or workshop facilitator, her
 
 ## How to hire me for speaking and workshops
 
-Just email me at [talbertr@gvsu.edu](mailto:talbertr@gvsu.edu) and let me know the details of what you're interested in. The information that helps the most is: 
+Just contact me using one of the links in the sidebar and let me know the details of what you're interested in. The information that helps the most is: 
 
 + __What's the context?__ Is this event part of a larger event, like a conference or multiple-day retreat? Is there a specific issue you'd like me to address? Are there any details about your faculty and institution that would be helpful for me to know?
 + __What's the outcome?__ When the talk or workshop is done, what would you like to have accomplished? Where would you like your faculty to be, or what do you want them to know or be motivated to do, as a result of the event? 

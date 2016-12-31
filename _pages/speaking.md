@@ -63,9 +63,14 @@ Just email me at [talbertr@gvsu.edu](mailto:talbertr@gvsu.edu) and let me know t
 
 ## Fee structure 
 
-My base charge for any speaking or workshop engagements consists of: 
+When contracted to do a speaking or workshop engagement, my expectations for funding are: 
 
-+ __All food, travel, and lodging expenses are to be paid by the host.__ 
++ The host will pay for all __food, travel, and lodging__ expenses. For travel considerations, I am located near [Grand Rapids, Michigan USA](https://www.google.com/maps?ll=42.96125,-85.655719&q=42.96125,-85.655719&hl=en&t=m&z=12). For engagements within 300 miles of Grand Rapids, I typically rent a vehicle and drive. Otherwise I fly out of the [Gerald Ford International Airport](http://www.grr.org/) (GRR) and connect via the [Detroit Metropolitan Airport](http://www.metroairport.com/) (DTW) if necessary. 
++ I also request an __honorarium__ in addition to those expenses. How much is it? It depends on your needs, and on other factors that vary from one group to another. So, please contact me using the email or social media links in the sidebar if you want to discuss this. 
+
+<!-- My base charge for any speaking or workshop engagements consists of: 
+
++ __All food, travel, and lodging expenses are to be paid by the host.__ F
 + __If there are childcare expenses incurred, those are also to be paid by the host.__ (This is only for situations where I need to arrange childcare while gone, for example if the event falls during a school holiday.) 
 + An __honorarium__; see below. 
 
@@ -77,12 +82,7 @@ My base honorarium requests are as follows:
 | 3-hour workshop | US$1500 | 
 | "Value pack" 45-minute keynote bundled with 3-hour workshop | US$2000 | 
 | 6-hour workshop | US$2500 | 
-
-These are the most commonly requested events that I get. I'm flexible, though, so if one of these doesn't fit your needs, just tell me what you have in mind and we'll discuss it. 
-
-These fees are also flexible. I'm always happy to negotiate these costs in the context of your event and budget. 
-
-For travel considerations, I am located near [Grand Rapids, Michigan USA](https://www.google.com/maps?ll=42.96125,-85.655719&q=42.96125,-85.655719&hl=en&t=m&z=12). For engagements within 300 miles of Grand Rapids, I typically rent a vehicle and drive. Otherwise I fly out of the [Gerald Ford International Airport](http://www.grr.org/) (GRR) and connect via the [Detroit Metropolitan Airport](http://www.metroairport.com/) (DTW) if necessary. 
+ -->
 
 ## Upcoming speaking and workshop engagements 
 

@@ -1,4 +1,16 @@
-_This is the first in a weekly series of articles here that I call "Sanity Check". I hope to post these every Tuesday, with articles on profhacks, tips on productivity and wellness, and ways for professors (and teachers of all sorts) to save time, get stuff done, and be happy._
+---
+title: "Sanity Check: Set up a student-friendly grading status board using Trello"
+excerpt: "Do you ever get tired of being asked when you'll be done grading something? Do students get tired of asking you? In this post I'll show you how to use Trello to create a publicly-accessible grading status board that gives students the info they need and keeps you organized without the pestering."
+comments: true
+share: true
+tags:
+  - Sanity check
+  - Trello
+  - Grading
+---
+
+
+_This is the first in a weekly series of articles here that I call "Sanity Check". I hope to post Sanity Checks every Tuesday, with articles on profhacks, tips on productivity and wellness, and ways for professors (and teachers of all sorts) to save time, get stuff done, and be happy._
 
 Part of good course design as we start a new semester means considering _how to give feedback to students_. "Feedback", of course, means a lot more than just _grading_. It means giving students information they need, when they need it, in a usable form. And one of the most in-demand items of information for student during a course is how soon you'll be handing back graded work.
 
@@ -8,17 +20,19 @@ A couple of years ago I stumbled upon a way to give students this information on
 
 ## What is Trello and what does it have to do with grading?
 
-Trello is a tool that is so simple and universal it's hard to describe exactly what it _is_, because it can be used in so many different ways. At its heart, Trello is an organizational tool that uses the [kanban system](https://en.wikipedia.org/wiki/Kanban) of organization and project management, used in Japanese corporations, to visually arrange items in the form of _cards_ that are placed into vertically-oriented groupings called _lists_. The cards can be moved from one list to another, like post-it notes arranged on a whiteboard. Trello boards can be used for everything from tracking progress on software development projects to planning your wedding or keeping track of reading lists.
+Trello is a tool that is so simple and universal it's hard to describe exactly what it _is_, because it can be used in so many different ways. At its heart, Trello is an organizational tool that uses the [kanban system](https://en.wikipedia.org/wiki/Kanban) of organization and project management, used in Japanese corporations, to visually arrange items in the form of _cards_ that are placed into vertically-oriented groupings called _lists_. The cards can be moved from one list to another, like post-it notes arranged on a whiteboard. Trello boards can be used for everything from tracking progress on software development projects to planning your wedding or keeping track of reading lists. Trello maintains [a whole page of example boards for inspiration](https://trello.com/inspiration) you can browse to see what's possible.
 
-I've been using Trello to keep track of my grading tasks in my courses for some time. One day I realized that the information on my grading task board is precisely what the students were asking me for (sometimes over and over again). So I decided to clean it up and release it to the public for everyone, especially my students, to see. Here's what it looks like right now, on the eve of the beginning of Winter semester ([click here](https://trello.com/b/05INrFCD/grading-status) to see it live):
+I've been using Trello to keep track of grading tasks in my courses for some time. One day I realized that the information on my grading task board is precisely what students were asking me for (sometimes over and over again). So I decided to clean it up and release it to the public for everyone to see, under the name of the **Grading Status Board**. Here's what it looks like right now, on the eve of the beginning of Winter semester ([click here](https://trello.com/b/05INrFCD/grading-status) to see it live):
 
 ![Grading status board](assets/images/gsb1.png)
 
-There's nothing on it of course, because there's nothing to grade right now. (I'll look back on this time with great fondness later.) But note the structure, with lists for _How to use this board_, _To Do_, _Next Up_, _Current Sprint_, _In Progress_, and _DONE_. If you [go to the actual board](https://trello.com/b/05INrFCD/grading-status), look in the information list and click on the top card, it "flips over" and there are instructions on how to use the board:
+There's nothing on it of course, because there's nothing to grade right now. (I'll look back on this time with great fondness later.) But note the structure, with lists for _How to use this board_, _To Do_, _Next Up_, _Current Sprint_, _In Progress_, and _DONE_. As the semester progresses, each item that I grade ends up on this board as a card, and it makes its way from _To Do_ to _DONE_, and my students and I can get a visual map of its status at any time.
+
+If you [go to the actual board](https://trello.com/b/05INrFCD/grading-status), look in the information list and click on the top card, it "flips over" and there are instructions on how to use the board:
 
 ![Instructions on using the board](assets/images/gsb2.png)
 
-Those instructions tell you (and my students) everything the need to use the board. The TL;DR is: Graded items are cards that start off in the _To Do_ list, then get moved to the _Next Up_ list when they are the next in line to be graded. They then move to the _Current Sprint_ list when I am working on them, and then to the _DONE_ list when they are done or to the _In Progress_ list if they are underway but not done.
+Those instructions tell you (and my students) everything the need to use the board. Graded items are cards that start off in the _To Do_ list, then get moved to the _Next Up_ list when they are the next in line to be graded. They then move to the _Current Sprint_ list when I am working on them, and then to the _DONE_ list when they are done or to the _In Progress_ list if they are underway but not done.
 
 I give the URL for the grading status board out on the first day of class (it's linked to our Blackboard site). Whenever a student wants to know the status of a piece of work, they just look at the board, and it's a live look at where it is. I tell students it's like the UPS package tracking system, except for their grades. Students can get this information anytime, anywhere (Trello has great mobile apps) and professors don't have to deal with answering the same question about grading status over and over again.
 
@@ -86,6 +100,8 @@ Here's how you can use this board, based on how I use mine:
 + Repeat this during the semester, adding new items to the To Do list, populating the Next Up list, etc. throughout the week.
 
 Make sure to give the link to your grading status board out to students on the first day of classes and take a minute to explain or demonstrate it. I put the link for mine prominently on the course Blackboard site. And if a student forgets and sends you an email or catches you after class to ask whether you're done grading something, just ask them, "Did you check the grading status board?" Sometimes students may need help understanding it; others have just forgotten that it's there, and need reminding.
+
+---
 
 My students and I have found the grading status board to be a great time-saver and organizational tool. For me, I use the grading status board as my actual grading task list; I have an IFTTT automation set up that creates a task in ToDoist whenever I add a card to the To Do list on the board. For students, they benefit from real-time updates on your progress --- their view will sync almost instantly with yours, so they'll even "see" you move cards around --- and that's one less thing for them to think about, and a little more mental space to devote to learning the concepts in your course.
 

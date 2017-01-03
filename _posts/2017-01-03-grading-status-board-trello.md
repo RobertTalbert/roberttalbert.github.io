@@ -24,13 +24,13 @@ Trello is a tool that is so simple and universal it's hard to describe exactly w
 
 I've been using Trello to keep track of grading tasks in my courses for some time. One day I realized that the information on my grading task board is precisely what students were asking me for (sometimes over and over again). So I decided to clean it up and release it to the public for everyone to see, under the name of the **Grading Status Board**. Here's what it looks like right now, on the eve of the beginning of Winter semester ([click here](https://trello.com/b/05INrFCD/grading-status) to see it live):
 
-![Grading status board](assets/images/gsb1.png)
+![Grading status board](/assets/images/gsb1.png)
 
 There's nothing on it of course, because there's nothing to grade right now. (I'll look back on this time with great fondness later.) But note the structure, with lists for _How to use this board_, _To Do_, _Next Up_, _Current Sprint_, _In Progress_, and _DONE_. As the semester progresses, each item that I grade ends up on this board as a card, and it makes its way from _To Do_ to _DONE_, and my students and I can get a visual map of its status at any time.
 
 If you [go to the actual board](https://trello.com/b/05INrFCD/grading-status), look in the information list and click on the top card, it "flips over" and there are instructions on how to use the board:
 
-![Instructions on using the board](assets/images/gsb2.png)
+![Instructions on using the board](/assets/images/gsb2.png)
 
 Those instructions tell you (and my students) everything the need to use the board. Graded items are cards that start off in the _To Do_ list, then get moved to the _Next Up_ list when they are the next in line to be graded. They then move to the _Current Sprint_ list when I am working on them, and then to the _DONE_ list when they are done or to the _In Progress_ list if they are underway but not done.
 
@@ -42,31 +42,31 @@ Now I'm going to give you step-by-step instructions for setting one of these up 
 
 First, go to [http://trello.com](http://trello.com) and sign up for a (free) account. You can just sign in using Google if you prefer, or enter your email and a password. Once you are in, create the board and call it "Grading Status" or whatever you like. It will look blank, like this:
 
-![Blank grading board](assets/images/gsb3.png)
+![Blank grading board](/assets/images/gsb3.png)
 
 Now we're going to create six lists: _Information_, _To Do_, _Next Up_, _Current Sprint_, _In Progress_, and _DONE_. Make sure to arrange them in that order from left to right (although some people like to put the Information list at the far right; suit yourself!). You can click and drag lists to reorder them:
 
-![Adding lists](assets/images/gsb4.gif)
+![Adding lists](/assets/images/gsb4.gif)
 
 Now we add cards to the lists. To create a card in a list, just click on "Add a card..." in the list you want and start typing, then hit Enter or click Add when done:
 
-![Adding a card](assets/images/gsb5.gif)
+![Adding a card](/assets/images/gsb5.gif)
 
 A big strength of Trello is the ability to add information and "stuff" to cards. Clicking on the card will flip it over and there you can add information. For example, here I'll add a description (the text field uses [Markdown](https://daringfireball.net/projects/markdown/), which is another reason to like Trello) and attach a file.
 
-![Adding stuff to the back of a card](assets/images/gsb6.gif)
+![Adding stuff to the back of a card](/assets/images/gsb6.gif)
 
 You can also attach pictures and files to cards after you create them, just by dragging and dropping onto the card.
 
 Next, I find it helpful to create _labels_ that add some metadata to the cards. I create a different label for every section that I am teaching, along with a red label for cards that are currently with my student grader so students will know I don't have them. You can create labels by going to the menu in the top right of the board:
 
-![Adding labels](assets/images/gsb7.gif)
+![Adding labels](/assets/images/gsb7.gif)
 
 For now, you can add cards to the Information list that students will use to navigate the board. Later, as graded work comes pouring in (sigh...) __create a new card in the To Do list for each item to grade__. Here's a workflow that I recommend that will make your life easier in this regard.
 
 First, create the card in the To Do list and type in the name of the item you are grading. You can also add labels to the card when you make it by using the hashtag symbol. Here's an example of creating a bunch of these cards. In this example, I've created labels for "MTH 101 Section 1" (green) and "MTH 102 Section 2" (blue).
 
-![Adding to do items with labels](assets/images/gsb8.gif)
+![Adding to do items with labels](/assets/images/gsb8.gif)
 
 __And now a very important step: If the graded item is big, break it down into small pieces by adding a checklist to the card.__ One mistake a lot of professors make in grading is thinking that a graded item like "Quiz 1" is a single item on a to-do list. _But it isn't._ Grading a test is not a _task_, it's a __project__ --- a sequence of related (and smaller) tasks that can be done piecemeal if needed.
 
@@ -74,7 +74,7 @@ For example, that "Quiz 1" that I added to the board might be for a class with 7
 
 Trello makes this decomposition of grading tasks easy by allowing you to add _checklists_ to cards. Here for example is me adding a checklist to the Quiz 1 card that represents one way to break up the project into tasks (by groups of last names):
 
-![Adding checklists](assets/images/gsb9.gif)
+![Adding checklists](/assets/images/gsb9.gif)
 
 As you grade the quiz, if you only have time to grade one clump of students, then go ahead and get that done --- then check the box on the card to show you're done. On the front side of the card, it will show that there's a checkbox and how many tasks have been checked off.
 
@@ -82,7 +82,7 @@ _Treating grading tasks as projects and not tasks, and then breaking these down 
 
 You have now built your board and populated it with stuff to do and information on how to use it. The last thing to do is set the visibility to "Public" so that your students can see it.
 
-![Setting public](assets/images/gsb10.gif)
+![Setting public](/assets/images/gsb10.gif)
 
 Then you just give out the URL to students.
 

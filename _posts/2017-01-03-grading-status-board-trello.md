@@ -108,7 +108,7 @@ Make sure to give the link to your grading status board out to students on the f
 
 ---
 
-My students and I have found the grading status board to be a great time-saver and organizational tool. For me, I use the grading status board as my actual grading task list; I have an IFTTT automation set up that creates a task in ToDoist whenever I add a card to the To Do list on the board. For students, they benefit from real-time updates on your progress --- their view will sync almost instantly with yours, so they'll even "see" you move cards around --- and that's one less thing for them to think about, and a little more mental space to devote to learning the concepts in your course.
+My students and I have found the grading status board to be a great time-saver and organizational tool. For me, I use the grading status board as my actual grading task list; I have an [IFTTT](https://ifttt.com/) automation set up that creates a task in [ToDoist](http://todoist.com) whenever I add a card to the To Do list on the board. For students, they benefit from real-time updates on your progress --- their view will sync almost instantly with yours, so they'll even "see" you move cards around --- and that's one less thing for them to think about, and a little more mental space to devote to learning the concepts in your course.
 
 I encourage you to give this a try this semester, and I hope it helps your sanity if you do.
 

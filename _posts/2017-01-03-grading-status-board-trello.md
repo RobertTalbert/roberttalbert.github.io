@@ -68,7 +68,7 @@ First, create the card in the To Do list and type in the name of the item you ar
 
 ![Adding to do items with labels](/assets/images/gsb8.gif)
 
-__And now a very important step: If the graded item is big, break it down into small pieces by adding a checklist to the card.__ One mistake a lot of professors make in grading is thinking that a graded item like "Quiz 1" is a single item on a to-do list. _But it isn't._ Grading a test is not a _task_, it's a __project__ --- a sequence of related (and smaller) tasks that can be done piecemeal if needed.
+__And now a very important step: If the graded item is big, break it down into small pieces by adding a checklist to the card.__ One mistake a lot of professors make in grading is thinking that a graded item like "Quiz 1" is a single item on a to-do list. _But it isn't._ Grading a quiz, test, writing assignment, etc. is not a _task_, it's a __project__ --- a sequence of related (and smaller) tasks that can be done piecemeal if needed.
 
 For example, that "Quiz 1" that I added to the board might be for a class with 75 students in it. If I conceive of that quiz as a single task, I'll struggle to get it done because my brain rebels against the idea of the amount of time and effort it will take. Instead, what I should do is __break that into a bunch of discrete tasks__ each of which can be done in a reasonable amount of time.
 

@@ -32,7 +32,7 @@ If you [go to the actual board](https://trello.com/b/05INrFCD/grading-status), l
 
 ![Instructions on using the board](/assets/images/gsb2.png)
 
-Those instructions tell you (and my students) everything the need to use the board. Graded items are cards that start off in the _To Do_ list, then get moved to the _Next Up_ list when they are the next in line to be graded. They then move to the _Current Sprint_ list when I am working on them, and then to the _DONE_ list when they are done or to the _In Progress_ list if they are underway but not done.
+Those instructions tell you (and my students) everything they need to use the board. Graded items are cards that start off in the _To Do_ list, then get moved to the _Next Up_ list when they are the next in line to be graded. They then move to the _Current Sprint_ list when I am working on them, and then to the _DONE_ list when they are done or to the _In Progress_ list if they are underway but not done.
 
 I give the URL for the grading status board out on the first day of class (it's linked to our Blackboard site). Whenever a student wants to know the status of a piece of work, they just look at the board, and it's a live look at where it is. I tell students it's like the UPS package tracking system, except for their grades. Students can get this information anytime, anywhere (Trello has great mobile apps) and professors don't have to deal with answering the same question about grading status over and over again.
 

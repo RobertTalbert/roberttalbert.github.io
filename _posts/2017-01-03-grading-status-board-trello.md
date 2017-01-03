@@ -99,6 +99,11 @@ Here's how you can use this board, based on how I use mine:
 + Once you finish an entire item, move it to the _DONE_ list and celebrate!
 + Repeat this during the semester, adding new items to the To Do list, populating the Next Up list, etc. throughout the week.
 
+Here's what it looks like to move cards from one list to another. You just drag and drop. The syncing on Trello is virtually instantaneous, so anybody who has the board open on their browser or phone will see the card move almost as soon as you move it:
+
+![Moving cards](/assets/images/gsb11.gif)
+
+
 Make sure to give the link to your grading status board out to students on the first day of classes and take a minute to explain or demonstrate it. I put the link for mine prominently on the course Blackboard site. And if a student forgets and sends you an email or catches you after class to ask whether you're done grading something, just ask them, "Did you check the grading status board?" Sometimes students may need help understanding it; others have just forgotten that it's there, and need reminding.
 
 ---

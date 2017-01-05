@@ -3,6 +3,7 @@ title: "Using the computer as a tool for thinking in discrete mathematics"
 excerpt: "What is computational thinking? What does it look like in discrete mathematics courses? And what are good tools for helping get this done?"
 comments: true
 share: true
+mathjax: true
 tags:
   - Computational thinking
   - Discrete structures

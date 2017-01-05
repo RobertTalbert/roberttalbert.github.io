@@ -1,6 +1,6 @@
 ---
 title: "Using the computer as a tool for thinking in discrete mathematics"
-excerpt: ""
+excerpt: "What is computational thinking? What does it look like in discrete mathematics courses? And what are good tools for helping get this done?"
 comments: true
 share: true
 tags:
@@ -113,10 +113,18 @@ __A:__ Not uniformly. Some have used it before while some may be currently enrol
 
 **Q: Why not use SageMath instead of Python? SageMath has tons of built-in features for discrete math, especialy graph theory.**
 
-**A:** 
+**A:** It does indeed, and I used SageMath for a year in my classes. What I found was that it has a bit _too_ much in the way of features. I want students in my classes to be developing a code base for working with discrete structures --- to build these by hand as much as possible, to really get into the details of how to make things work. SageMath, I found, had already built great code for everything I wanted students to do. Also, SageMath is not (as far as I know) available for local installation on Windows machines unless you're willing to install virtual machine software. A strong majority of my students are Windows users, and although they are CS majors, they are not always tech-savvy, and the workflow for getting SageMath to work locally on Windows was just more complex than I was comfortable asking them to deal with.
 
+**Q: Why not use SageMath Cloud, if that's the case?**
+
+**A:** We did for a while, and SMC is an outstanding product, and running SageMath in a Jupyter notebook is just a matter of clicking a selection from a drop-down menu. However, students were using the free version that uses a public server, and they were constantly plagued by network timeouts and dropped connections. It was getting in the way of students doing work. I could either have had students pay for the upgraded version; or convinced my department to buy a departmental license; or just forget about SageMath and go back to straight Python where students had more options. I chose the latter. I'm happy with that choice because we are not bound to using something in the cloud.
+
+
+---
+
+Thanks for reading all this, and again for more information and resources visit the website for my talk at [http://bit.ly/ctdiscrete](http://bit.ly/ctdiscrete).
+
+_Image credit: [http://www.hpmuseum.org/hp28c.htm](http://www.hpmuseum.org/hp28c.htm)_
 
 
 [^1]: Take that with a grain of salt, though: The population of the study were American students (read: better off financially than peers in many other countries) and the survey was given online, so there's a bit of selection bias in place. And it's funded by a textbook company with a vested interest in online homework systems. Still, other studies like those conducted by the Pew Foundation corroborate the notion that the proportion of students who have ready access to a laptop, notebook, or Chromebook is rapidly approaching 100%.
-
-Some of you might be wondering why I use Python and not something else, especially SageMath. I used SageMath (and SageMath Cloud) for a year but moved away from it, back to straight Python, for three reasons. First, my students are mostly computer science majors, and I wanted them to be doing actual programming. SageMath is _so_ loaded with features, especially for graph theory, that there was almost nothing left to program! Second, and related, SageMath is kind of a niche environment, and I wanted my students to not become dependent on the features of SageMath but rather work with fewer features in an environment they're more likely to see after graduation. Finally, not all of my students have the kind of robust access to web tools that other students have, and so using SageMath Cloud became an issue; but it's also an issue to try to install Sage locally

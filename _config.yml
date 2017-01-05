@@ -92,7 +92,7 @@ author:
   github           : RobertTalbert
   google_plus      : RobertTalbert
   keybase          :
-  instagram        : rtalbert 
+  instagram        : rtalbert
   lastfm           :
   linkedin         : RobertTalbert
   pinterest        :
@@ -163,6 +163,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  math_engine: mathjax
 
 
 # Sass/SCSS

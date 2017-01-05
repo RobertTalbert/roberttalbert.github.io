@@ -68,7 +68,7 @@ The answer is: $2^n$. We _could_ simply tell students this fact and give them so
 
 And then comes the hard part, _algorithm or solution design_. Consider one of the standard proofs of the conjecture:
 
->(By mathematical induction) For the base case $n=0$, note that the empty set has 1 subset, namely the empty set. Now suppose that a set $S$ has $k$ elements for some positive integer $k$. Consider the $(k+1)$-element set $S' = S \cup \\{x\\}$ (where $x \not \in S$). The set $S$ has $2^k$ subsets by hypothesis. Those subsets are also subsets of $S'$. Additionally there are $2^k$ more subsets of $S'$ obtained by taking each of the subsets $S$ and unioning them with $\{x\}$. These are distinct from the subsets of $S$ because they all contain $x$. Therefore there are $2^k + 2^k = 2^{k+1}$ subsets of $S'$.
+>(By mathematical induction) For the base case $n=0$, note that the empty set has 1 subset, namely the empty set. Now suppose that a set $S$ has $k$ elements for some positive integer $k$. Consider the $(k+1)$-element set $S' = S \cup \\{x\\}$ t6 (where $x \not \in S$). The set $S$ has $2^k$ subsets by hypothesis. Those subsets are also subsets of $S'$. Additionally there are $2^k$ more subsets of $S'$ obtained by taking each of the subsets $S$ and unioning them with $\{x\}$. These are distinct from the subsets of $S$ because they all contain $x$. Therefore there are $2^k + 2^k = 2^{k+1}$ subsets of $S'$.
 
 When you scratch the surface of this proof, what you see is that it's more than just an explanation for why the conjecture is true: It's actually a _recursive algorithm for constructing the subsets themselves_. The proof is not just _explaining why_ there are $2^n$ subsets, but _showing how_ to actually make those subsets.
 

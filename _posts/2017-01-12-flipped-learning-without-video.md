@@ -1,5 +1,5 @@
 ---
-title: "No, you do not need to use video in a flipped learning environment (and five alternatives)"
+title: "No, you do not need to use video in flipped learning (and five alternatives)"
 excerpt: "The usual way of thinking about flipped learning is that students watch videos before class, and unfortunately this leads many instructors away from using it. The truth is, video is unnecessary."
 comments: true
 share: true

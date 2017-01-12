@@ -58,7 +58,7 @@ Here are five alternatives to using video (or, things you can have students do i
 
 [^4]: Schneider, B., & Bumbacher, E. (1999). Discovery Versus Direct Instruction: Learning Outcomes of Two Pedagogical Models Using Tangible Interfaces. In "Exploring the material conditions of learning: opportunities and challenges for CSCL,” the Proceedings of the Computer Supported Collaborative Learning (CSCL) Conference (pp. 364–371).
 
-[^5]: Someone is going to get upset and claim that I am a STEM person picking on humanists. I am indeed a STEM person but this is not picking on humanists. What I am picking on, is the idea that reading before class + discussion in class = flipped learning. That equation is false. To understand why, well, [read my book](http://rtalbert.org/book) where I discuss specifically the criticism that flipped learning is just a edu-speak rebranding of something that's been going on since 1088. For the record, I think humanists are awesome and I graduated with a minor in English, so there. 
+[^5]: Someone is going to get upset and claim that I am a STEM person picking on humanists. I am indeed a STEM person but this is not picking on humanists. What I am picking on, is the idea that reading before class + discussion in class = flipped learning. That equation is false. To understand why, well, [read my book](http://rtalbert.org/book) where I discuss specifically the criticism that flipped learning is just an edu-speak rebranding of something that's been going on since 1088. For the record, I think humanists are awesome and I graduated with a minor in English, so there. 
 
 ## Conclusion
 

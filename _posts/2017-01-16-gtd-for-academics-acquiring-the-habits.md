@@ -10,7 +10,7 @@ tags:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pexels-photo-104817.jpeg" alt="" class="full">
 
 
-Before rebooting this blog earlier this month, I began a series on the [Getting Things Done](http://gettingthingsdone.com/) ("GTD)" productivity philosophy and how it applies to those who work in academics. It's time to continue our exploration of this important idea. Here's a summary of what we've covered so far:
+Before rebooting this blog earlier this month, I began a series on the [Getting Things Done](http://gettingthingsdone.com/) ("GTD") productivity philosophy and how it applies to those who work in academics. It's time to continue our exploration of this important idea. Here's a summary of what we've covered so far:
 
 + In the [first post](http://rtalbert.org/blog/2016/gtd-for-academics-setting-stage), I wrote about "setting the stage" --- why a person in higher education would need to have some kind of system for dealing with the "stuff" in their life in the first place. Briefly: We need it, because there is _so much_ work to do in academia and it's all so varied, that without a system in place, we end up buried by it, and our lives soon become incapable of holding all the things that make it worth living.
 + In the [second post](http://rtalbert.org/blog/2016/gtd-for-academics-engaging-system), I wrote about the characteristics of a system that really _works_ for academics: Any sort of organized way of dealing with our "stuff" has to be **simple**, **platform/tech-independent**, **always on**, **integrated**, **agile**, and **actually helpful**. I pointed out that two of the most common "systems" employed by college faculty --- to-do lists and email --- fail to live up to our needs, and this set the stage for GTD specifically.

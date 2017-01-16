@@ -1,3 +1,15 @@
+---
+title: "GTD for Academics: Collect"
+excerpt: "In part 4 of GTD for academics we focus on the habit of _collection_ and _capture_ --- using simple tools to capture thoughts and ideas that we want to keep, before they get away."
+comments: true
+share: true
+tags:
+  - GTD
+  - Productivity
+---
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/net.jpg" alt="" class="full">
+
 Yesterday we revisited **GTD for academics** and I introduced you to Leo Babauta's excellent book [_Zen To Done: The Ultimate Simple Productivity System_](http://a.co/3rFmHa7). His implementation of David Allen's Getting Things Done philosophy is, I think, ideally suited for college and university professors because of its simplicity, modular structure, and scalability. It also has all the hallmarks of a usable productivity system that I described in [this earlier post](http://rtalbert.org/blog/2016/gtd-for-academics-engaging-system). ZTD is a kind of "fork" of GTD based on the gradual adoption of ten important habits: _Collect, Process, Plan, Do, Simple Trusted System, Organize, Review, Simplify, Routines_, and _Find Your Passion_. Today, I want to discuss the first one: **Collect**, which [in more traditional GTD setups](http://gettingthingsdone.com/fivesteps/) is called _Capture_.
 
 ## How Collect works and why it's important for academics

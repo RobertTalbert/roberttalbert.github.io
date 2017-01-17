@@ -6,6 +6,7 @@ share: true
 tags:
   - GTD
   - Productivity
+  - Sanity check 
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/net.jpg" alt="" class="full">

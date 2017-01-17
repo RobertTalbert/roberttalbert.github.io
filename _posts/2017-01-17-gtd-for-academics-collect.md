@@ -6,7 +6,7 @@ share: true
 tags:
   - GTD
   - Productivity
-  - Sanity check 
+  - Sanity check
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/net.jpg" alt="" class="full">
@@ -47,9 +47,9 @@ Keep consists of simple notes that look like sticky notes and can contain checkl
 2. Then say "Note to self"
 3. Then speak the contents of the note.
 
-Keep will then transcribe your voice to text and include both the transcription _and_ the original voice recording in the note.  (https://support.google.com/keep/answer/6356960?hl=en-GB.) Then it's synced across all your devices and you can process it later.
+Keep will then transcribe your voice to text and include both the transcription _and_ the original voice recording in the note. Then it's synced across all your devices and you can process it later.
 
-I tend to always have my phone with me, so when I am driving into work or stepping out of the shower[^2] and I have some big idea, I just pick up the phone and have Google Keep record it for me.
+I tend to always have my phone with me, so when I am driving into work or stepping out of the shower[^2] and I have some big idea, I just pick up the phone and have Google Keep record it for me. Then I process it later (Habit 2). 
 
 The other capture tool is the "quick add" feature for ToDoist. I will have a lot more to say about ToDoist in another post, but it's my "simple trusted system" for handling all my tasks. If I am at my computer[^3] and something crosses my mind and I need to capture it, I just hit **Shift-Command-A** on my Mac and a quick entry bar pops up. I can quickly enter the thing I am capturing, along with metadata like contexts and due dates if I want, and save it quickly --- and it syncs across all my devices for processing later. It's all very quick and frictionless:
 

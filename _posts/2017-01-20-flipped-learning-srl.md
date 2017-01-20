@@ -47,6 +47,8 @@ Self-regulated learning is what we see when we are clear about what we really wa
 
 -----
 
+Image credit: [https://static.pexels.com/photos/7096/people-woman-coffee-meeting.jpg](https://static.pexels.com/photos/7096/people-woman-coffee-meeting.jpg)
+
 __References__
 
 Pintrich, P. R. (2004). A conceptual framework for assessing motivation and self-regulated learning in college students. _Educational Psychology Review_, 16(4), 385–407. Retrieved from http://www.springerlink.com/index/U0N624K3X6253519.pdf

@@ -8,6 +8,9 @@ tags:
   - Productivity
   - Sanity Check
 ---
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/process.jpg" alt="" class="full">
+
+
 
 _This is part 5 of an ongoing Tuesday Sanity Check series on GTD for Academics. You can find the first four posts here: [Setting the Stage](http://rtalbert.org/blog/2016/gtd-for-academics-setting-stage), [Engaging the System](http://rtalbert.org/blog/2016/gtd-for-academics-engaging-system), [Acquiring the Habits](http://rtalbert.org/gtd-for-academics-acquiring-the-habits/), and [Collect](http://rtalbert.org/gtd-for-academics-collect/)._
 

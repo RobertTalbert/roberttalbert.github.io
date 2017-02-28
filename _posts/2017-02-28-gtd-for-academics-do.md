@@ -1,5 +1,5 @@
 ---
-title: "GTD for Academics: Doing"
+title: "GTD for Academics &#58 Doing"
 excerpt: "Part 7 of GTD for Academics focuses on one of the trickiest parts of GTD: Actually doing the tasks that you need to do."
 comments: true
 share: true

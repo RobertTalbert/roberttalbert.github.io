@@ -89,4 +89,4 @@ My base honorarium requests are as follows:
 
 | Event | Host | Location | Dates |
 | :----------| :--- | :------- | :---- |
-| "Flipped Learning -- A gateway to learning for life" | University of the Basque Country | Bilbao, Spain | May 19, 2017 | 
+| Keynote address:  "Flipped Learning -- A gateway to learning for life" | University of the Basque Country | Bilbao, Spain | May 19, 2017 | 

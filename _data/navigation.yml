@@ -4,6 +4,8 @@ main:
     url: /book/
   - title: "Speaking"
     url: /speaking/
+  - title: "Newsletter"
+    url: /newsletter/ 
   - title: "About"
     url: /about/
   - title: "GVSU"

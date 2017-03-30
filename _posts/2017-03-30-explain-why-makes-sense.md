@@ -34,4 +34,8 @@ Flipped learning is not only worth implementing, it's also worth studying rigoro
 
 It's hard for me to imagine teaching without flipped learning now. My students are engage; challenged and therefore uncomfortable sometimes; but ultimately happier because their work is truly meaningful. I'm excited to see where flipped learning is headed next.
 
+---
+
+Image credit: [https://www.flickr.com/photos/andrec/](https://www.flickr.com/photos/andrec/)
+
 [^1]: Gannod, G. C., Burge, J. E., & Helmick, M. T. (2008). Using the inverted classroom to teach software engineering. Proceedings of the 13th International Conference on Software Engineering ICSE 08, 777–786. http://doi.org/10.1145/1368088.1368198

@@ -2,10 +2,12 @@
 main:
   - title: "Book"
     url: /book/
+  - title: "Sabbatical"
+    url: /sabbatical/
   - title: "Speaking"
     url: /speaking/
   - title: "Newsletter"
-    url: /newsletter/ 
+    url: /newsletter/
   - title: "About"
     url: /about/
   - title: "GVSU"

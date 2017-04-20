@@ -3,9 +3,6 @@ title: "For GVSU students"
 permalink: /gvsu/
 ---
 
-Testing
-
-
 This page serves as my main faculty contact page for students and colleagues at Grand Valley State University.
 
 **I will be on sabbatical from GVSU during the entire academic year 2017--2018.** During this time I will not be teaching and I will mostly not be on campus. I will also not be on campus during Spring or Summer 2017. For complete information about my sabbatical, please see [the Sabbatical page](http://rtalbert.org/sabbatical).

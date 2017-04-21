@@ -9,7 +9,7 @@ tags:
   - Work-life balance 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-04-21/altitude.jpg" alt="" class="full">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-04-21/alt2.jpg" alt="" class="full">
 
 _This is part 10 of an ongoing Tuesday Sanity Check series on Getting Things Done (GTD) for Academics. You can find the first seven posts here: [Setting the Stage](http://rtalbert.org/blog/2016/gtd-for-academics-setting-stage), [Engaging the System](http://rtalbert.org/blog/2016/gtd-for-academics-engaging-system), [Acquiring the Habits](http://rtalbert.org/gtd-for-academics-acquiring-the-habits/),  [Collect](http://rtalbert.org/gtd-for-academics-collect/),  [Process](http://rtalbert.org/gtd-for-academics-process/), [Planning](http://rtalbert.org/gtd-for-academics-plan/),  [Doing](http://rtalbert.org/gtd-for-academics-do/), [Simple Trusted System](http://rtalbert.org/gtd-for-academics-simple-trusted-system/), and [the Weekly Review](http://rtalbert.org/gtd-for-academics-weekly-review/). 
 ._

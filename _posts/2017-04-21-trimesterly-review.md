@@ -83,4 +83,4 @@ Thanks for reading all these articles on GTD for academics. I intend for this to
 
 -----
 
-_Image credit: Noah Klugman, https://en.wikipedia.org/wiki/File:Shot_from_High_Altitude_Ballon_with_Lake_Michigan.JPG_ 
+Image credit: Martin Chen, https://www.flickr.com/photos/rla579/

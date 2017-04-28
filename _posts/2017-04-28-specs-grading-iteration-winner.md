@@ -42,6 +42,7 @@ If these are the things I want from the course, then I need to set up stuff for 
 For basic technical skills, I combed through the course and decided on a list of 20 basic skills that I felt were essential building-block skills for the course. Those are called **Learning Targets**. These were keyed to the four major topics in the course (proof, graphs, relations, trees). Here are a couple: 
 
 >**P.2:** I can identify the predicate being used in a proof by mathematical induction and use it to set up a framework of assumptions and conclusions for an induction proof.
+>
 >**G.6:** I can give a valid vertex coloring for a graph and determine a graph's chromatic number.
 
 [Here's the full list](https://gist.github.com/RobertTalbert/30a00ecce9a91ec3d21c8e818831480f). Notice these are phrased in terms of concrete action verbs that produce assessable results. 

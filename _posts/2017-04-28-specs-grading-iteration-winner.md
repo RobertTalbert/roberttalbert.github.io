@@ -148,6 +148,8 @@ Finally, while I'm convinced this specs grading system isn't more complex than t
 
 To conclude here: I am a convert to specs grading and I do not see myself going back to traditional grading anytime soon. It's just too good. I still hate grading like everybody else, but at least now when I grade, I am giving feedback to students rather than splitting hairs over points, and it's really changed the dynamic of my classes for the better. 
 
+For those who are interested, [here is the syllabus for the course with all the details](https://drive.google.com/file/d/0B3oyKFhpi58RVExMNFpleUVoRlk/view?usp=sharing) (yes, I actually left stuff out in this post). 
+
 Now, ask me some questions about this. 
 
 ---

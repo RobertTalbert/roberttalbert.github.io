@@ -1,6 +1,6 @@
 ---
 title: "Specifications grading: We may have a winner"
-excerpt: "In January 2015, I launched my first attempt at specifications grading. This semester, I concluded my fifth iteration of specs grading in my courses and I think I finally have something that works."
+excerpt: "In January 2015, I launched my first attempt at specifications grading. This semester, I think I finally have something that works."
 comments: true
 share: true
 tags:

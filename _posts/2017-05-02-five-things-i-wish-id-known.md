@@ -6,6 +6,7 @@ share: true
 tags:
   - Work-life balance
   - Higher Education
+  - Sanity check
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-05-02/campus.jpg" alt="" class="full">
 

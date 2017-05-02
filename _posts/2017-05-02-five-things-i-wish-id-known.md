@@ -1,5 +1,5 @@
 ---
-title: "What I wish I'd known in my first semester as a professor"
+title: "Five things I wish I'd known in my first semester as a professor"
 excerpt: "In response to a reader question, here are five things I wish I had learned before I started my first professor gig 20 years ago."
 comments: true
 share: true

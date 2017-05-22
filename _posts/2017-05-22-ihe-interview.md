@@ -65,3 +65,7 @@ I've already mentioned the dual issues of the rewards system of higher education
 Another issue for flipped learning specifically, possibly shared by other pedagogical approaches, is a corollary to the isolation issue -- that's that many of us are working on flipped learning without an understanding of what other people are doing or have done. For example, in my book I show that since 2012, the number of peer-reviewed articles on flipped learning has been increasing exponentially, more than doubling in quantity each year, and that growth is on pace to continue in 2017.
 
 And yet, many well-intentioned articles on flipped learning don't reference many of the other articles on flipped learning but instead frame it as something that was only invented last year. In my book, too, I talk about how in the early 2000's, flipped learning emerged from three different sources in higher education almost all at the same time (with two of those sources being universities 40 miles apart from each other), and then re-emerged in the 2010's in the K-12 world, all mostly unaware of each others' existence. We just all need to be more aware of what we are all doing, and it makes the importance of communities of practice that much more urgent.
+
+---
+
+_Image credit: [https://www.flickr.com/photos/codnewsroom/](https://www.flickr.com/photos/codnewsroom/)_

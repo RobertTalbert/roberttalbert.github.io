@@ -9,6 +9,9 @@ tags:
 ---
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-05-22/ " alt="" class="full”> -->
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
 About a year ago, I was hard at work on Chapter 2 of [my book](http://rtalbert.org/book) where I go into depth on the history, theory, and research on flipped learning. I was especially interested in finding the seminal publications, the required-reading journal articles that a person getting into flipped learning research would need to read, and seeing how flipped learning research has evolved over time. I made heavy use of [the ERIC database](http://eric.ed.gov) since it's easy to do targeted searches with date restrictions on ERIC. It was so easy, in fact, that I decided to take a detour one day and look only at the number of publications per year, to address the common misconception that flipped learning is a fad with no research basis. 
 
 What I found surprised even me, a flipped learning partisan: __not only was the volume of research growing, it has growing exponentially since 2012 and shows no signs of slowing down__. I [wrote about it in this blog post from last summer](http://rtalbert.org/blog/2016/how-much-research). 

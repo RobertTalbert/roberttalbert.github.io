@@ -33,7 +33,7 @@ That's a total of 131 articles. To put that into perspective, the total number o
 
 Here's the graph: 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-06-14/FLresearch-2016.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-06-15/FLresearch-2016.png">
 
 Yep, still exponential growth. In fact, I ran an exponential regression on the data (transforming the time variable so that year 0 is 2000, year 1 is 2001, etc) and the exponential model was $y = 0.00548171 \cdot (1.88282)^x$ with an $R^2$ of $0.9799$. That's a ridiculously strong fit, and the base of the exponential says that the amount of research is almost doubling each year. 
 

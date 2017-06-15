@@ -38,7 +38,7 @@ Here's the graph:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-06-15/FLresearch-2016.png">
 
-Yep, still exponential growth. In fact, I ran an exponential regression on the data (transforming the time variable so that year 0 is 2000, year 1 is 2001, etc) and the exponential model was $$y = 0.00548171 \cdot (1.88282)^x$$ with an $R^2$ of $0.9799$. That's a ridiculously strong fit, and the base of the exponential says that the amount of research is almost doubling each year. 
+Yep, still exponential growth. In fact, I ran an exponential regression on the data (transforming the time variable so that year 0 is 2000, year 1 is 2001, etc) and the exponential model was y = 0.00548171(1.88282)^x with an R^2 of 0.9799. That's a ridiculously strong fit, and the base of the exponential says that the amount of research is almost doubling each year. 
 
 I also took a look at the current numbers for 2017, as of today (almost exactly halfway through the year): 11 "flipped learning" articles, 38 "flipped classroom" articles, and one (rather lonely) "inverted classroom" article for a total of 50 so far. When I did this last year on June 2, the total was 38. The total number for 2016 ended up at 131, or about 3.4 times the number at mid-year. (Most research like this seems to be finalized during the summer.) So it's not unreasonable to predict that 2017 could end up around 180 publications when it's all over. 
 

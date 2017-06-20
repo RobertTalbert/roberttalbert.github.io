@@ -7,7 +7,7 @@ tags:
   - Lit review
   - Research
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-06-20/connections.jpg " alt="" class="full”>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-06-20/connections.jpg" alt="" class="full">
 
 One of the questions about flipped learning that I've been thinking about for a while is how flipped learning is related to "lifelong learning". Existing research on flipped learning tends to focus on a single chunk of time: a _single class_ that's flipped, or control/experiment sections of a single class where one is flipped and the other is not. Generally speaking, the research shows that learning outcomes are at least as good in a flipped learning class as in a traditional class, and in most cases better. But what about later on, once the class is over? Do those gains persist after the course is over, and does the flipped learning experience stick with students and grow into a lifelong ability to learn independently?
 

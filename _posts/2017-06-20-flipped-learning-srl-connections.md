@@ -15,7 +15,7 @@ I've always felt like the answer is clearly "yes" to all of the above, since fli
 
 Those skills and attitudes are collectively known as **self-regulated learning** (SRL). [I've written about the relationship between flipped learning and SRL before](http://rtalbert.org/flipped-learning-srl/) (see that article for a more detailed description of the concept) and I firmly believe that flipped learning is an ideal platform to develop SRL in students. But firm beliefs are not data, so I've been looking for research articles that address this area of overlap. 
 
-The article I am reviewing about today is by Dr. Sarah Rae Sletten, a professor of biology at Maryville State College in North Dakota:
+The article I am reviewing today is by Dr. Sarah Rae Sletten, a professor of biology at Maryville State College in North Dakota:
 
 >Sletten, S. R. (2017). Investigating Flipped Learning: Student Self-Regulated Learning, Perceptions, and Achievement in an Introductory Biology Course. _Journal of Science Education and Technology_, 26(3), 347–358. http://doi.org/10.1007/s10956-016-9683-8
 

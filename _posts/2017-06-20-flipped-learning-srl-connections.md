@@ -88,4 +88,7 @@ There were some important lessons to be learned from this study that all of us w
 
 On the point about training in SRL, it would be interesting to see this study recast as a quasi-experimental study, using two flipped sections of the course, with the only difference between the sections being that one includes explicity training in SRL and the other doesn't. In fact, this very setup is the basis of the next article that I'll be reviewing here on the blog! So stay tuned. 
 
+---
+
+Image credit: [https://www.flickr.com/photos/33650767@N06/](https://www.flickr.com/photos/33650767@N06/)
 

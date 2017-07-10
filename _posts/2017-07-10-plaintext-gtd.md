@@ -77,7 +77,7 @@ The header image on this post shows the top 1/3 of my current `todo.txt` file in
 
 I started working with todo.txt a couple of months ago when my semester ended, because my workload this summer is low and so it's a good time to experiment. I am still figuring some parts of my workflow out, but here's what I have so far that's worked pretty well. 
 
-I have the two essential files `todo.txt` and `done.txt` in a special Dropbox folder for syncing purposes[^1]. I also introduced two other text files to help with my workflow: A file called `inbox.txt` for capturing incoming thoughts. I treat this as just another inbox, along with my email accounts, Google Keep, and my physical inboxes; and a file called `masterlist.txt` which contains a master list of all my projects and all the tasks associated with those projects. 
+I have the two essential files `todo.txt` and `done.txt` in a special Dropbox folder for syncing purposes[^1]. I also introduced two other text files to help with my workflow: A file called `inbox.txt` for capturing incoming thoughts (I treat this as just another inbox, along with my email accounts, Google Keep, and my physical inboxes); and a file called `masterlist.txt` which contains a master list of all my projects and all the tasks associated with those projects. 
 
 My "stuff" goes through a progression of these four files --- `inbox`, `masterlist`, `todo`, and `done` --- as follows: 
 

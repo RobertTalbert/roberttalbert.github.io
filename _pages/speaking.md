@@ -13,6 +13,14 @@ In addition to being a professor, I often give talks and workshops to college an
 
 If you are in in higher education and are looking for someone to come and work with your faculty on improving teaching and learning in any of these areas --- or a combination of them, or something related to them --- I'd love to work with you.
 
+## Upcoming speaking and workshop engagements
+
+| Event | Host | Location | Dates |
+| :----------| :--- | :------- | :---- |
+| Talk: "Flipped learning: A trusted platform for active learning" | George Washington University | Washington, DC | August 23, 2017 | 
+| Workshop: "(Re:)Designing Class for Flipped Learning Experiences" | George Washington University | Washington, DC | August 23, 2017 | 
+| "Birds of a Feather" session on Jupyter for Teaching and Learning (with Lorena Barba) | JupyterCon | New York City | August 24, 2017 | 
+
 ## Experience
 
 I've been giving talks and workshops on teaching and learning for about seven years. My experience includes:
@@ -84,15 +92,5 @@ My base honorarium requests are as follows:
 | 6-hour workshop | US$2500 |
  -->
 
-## Upcoming speaking and workshop engagements
 
 
-| Event | Host | Location | Dates |
-| :----------| :--- | :------- | :---- |
-| Talk: "Flipped learning: A trusted platform for active learning" | George Washington University | Washington, DC | August 23, 2017 | 
-| Workshop: "(Re:)Designing Class for Flipped Learning Experiences" | George Washington University | Washington, DC | August 23, 2017 | 
-| "Birds of a Feather" session on Jupyter for Teaching and Learning (with Lorena Barba) | JupyterCon | New York City | August 24, 2017 | 
-
-
-
-| Keynote address:  "Flipped Learning -- A gateway to learning for life" | University of the Basque Country | Bilbao, Spain | May 19, 2017 | 

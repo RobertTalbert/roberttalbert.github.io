@@ -91,7 +91,7 @@ The use of `masterlist.txt` in conjunction with `todo.txt` is my invention. In p
 As far as apps go, I've tried out several and have gravitated toward these: 
 
 - On my phone (a Samsung Galaxy S8) I use the original [Todo.txt Android app](https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch&hl=en).
-- On my iPad, it's [SwifTodo](http://swiftodoapp.com/)
+- On my iPad, it's [SwifTodo](http://swiftodoapp.com/).
 - On my Mac, I go back and forth between [TodoTxtMac](https://mjdescy.github.io/TodoTxtMac/) and using just the text file itself in Sublime Text and the `todo.sh` command line interface. 
 
 But note, none of these apps is necessary. I could easily just work with the text file in Sublime Text and many times I do just that. 

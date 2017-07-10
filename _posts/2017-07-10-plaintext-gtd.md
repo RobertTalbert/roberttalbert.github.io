@@ -31,7 +31,7 @@ There are a lot of reasons to like plain text --- including formats like Markdow
 - __Text files are future-proof__. They have been around since the beginning of computing and will be around long after all the apps we currently use are dead/gone/bought out by Microsoft.
 - __Text files are the ultimate in simplicity__, containing precisely zero formatting and zero fluff. 
 - __Text files are lightweight__. You can have thousands of them on a storage device before they even make a dent, and sharing their contents is trivial. 
-- __Text files are absolutely platform-independent__, with high-quality text editors available on every OS and device. They can also be turned into any other kind of format you want using simple tools like pandoc. 
+- __Text files are absolutely platform-independent__, with high-quality text editors available on every OS and device[^2]. They can also be turned into any other kind of format you want using simple tools like pandoc. 
 
 There is nothing inherent in GTD practice that says we can't use something as simple as plain text files to handle our stuff. [In fact in Leo Babauta's book Zen To Done](http://a.co/7kRtpes) (which was the basis for my GTD for Academics series) he makes the point strongly that we have to keep the GTD system as simple as possible, and all that's really needed are basic lists. That's easily done with text files -- or even just a notebook and a pen. The trick is in having a _system_ for working with lists in text files to make it easy to search and filter stuff within the lists. It turns out there's a simple, platform-agnostic system out there in use that works very well, and it's called __todo.txt__. 
 
@@ -123,3 +123,5 @@ Finally, I'll just note that my move to todo.txt is part of a larger push to mov
 
 
 [^1]: You could argue that using Dropbox defeats the whole "decouple your data from apps" ethos here and there's some truth to this. I suppose I could self-host the data, but (1) most of the apps for todo.txt use Dropbox for syncing, so if you use the apps you need to use Dropbox and (2) call me naive, but I trust Dropbox from having used it for almost a decade. 
+
+[^2]: Except Android apparently. If I'm wrong on that, give me your recommendations. 

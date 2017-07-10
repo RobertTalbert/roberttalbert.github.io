@@ -89,4 +89,10 @@ My base honorarium requests are as follows:
 
 | Event | Host | Location | Dates |
 | :----------| :--- | :------- | :---- |
+| Talk: "Flipped learning: A trusted platform for active learning" | George Washington University | Washington, DC | August 23, 2017 | 
+| Workshop: "(Re:)Designing Class for Flipped Learning Experiences" | George Washington University | Washington, DC | August 23, 2017 | 
+| "Birds of a Feather" session on Jupyter for Teaching and Learning (with Lorena Barba) | JupyterCon | New York City | August 24, 2017 | 
+
+
+
 | Keynote address:  "Flipped Learning -- A gateway to learning for life" | University of the Basque Country | Bilbao, Spain | May 19, 2017 | 

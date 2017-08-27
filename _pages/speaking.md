@@ -15,13 +15,12 @@ If you are in in higher education and are looking for someone to come and work w
 
 ## Upcoming speaking and workshop engagements
 
-Nothing is booked at the moment! See below for information on how to contact me for talks and workshops. 
+<!-- Nothing is booked at the moment! See below for information on how to contact me for talks and workshops.  -->
 
-<!-- | Event | Host | Location | Dates |
+| Event | Host | Location | Dates |
 | :----------| :--- | :------- | :---- |
-| Talk: "Flipped learning: A trusted platform for active learning" | George Washington University | Washington, DC | August 23, 2017 | 
-| Workshop: "(Re:)Designing Class for Flipped Learning Experiences" | George Washington University | Washington, DC | August 23, 2017 | 
-| "Birds of a Feather" session on Jupyter for Teaching and Learning (with Lorena Barba) | JupyterCon | New York City | August 24, 2017 |  -->
+| Transitions Conference (session interlocutor) | Steelcase | Grand Rapids, MI | Sept. 14, 2017 |
+
 
 ## Experience
 

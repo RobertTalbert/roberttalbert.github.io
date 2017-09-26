@@ -22,7 +22,7 @@ When we talk about teaching and learning, we often gravitate toward technology a
 
 In fact, the "built environment" projects a message to both teachers and students about just what kinds of learning experiences are expected. When you and your students walk into that room with the bolt-on chairs, what does this say about the expectations for the learning that will take place in that room? What message, when you look at this room --- a Steelcase-designed classroom  --- what kind of message does it send? 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-09-25/steelcase-classroom.jpg" alt="" class="full"> 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-09-25/steelcase-classroom.png" alt="" class="full"> 
 
 This design process involves a significant amount of research: quantitative research into the effects of pedagogy, technology, and space on student perceptions and academic improvement; qualitative research into the needs of teachers and students; market research into emerging trends for learning spaces; and more. This is where I come in. As a scholar-in-residence:
 

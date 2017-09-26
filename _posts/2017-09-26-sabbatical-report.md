@@ -20,7 +20,7 @@ But it's also important to realize that Steelcase, specifically Steelcase EDU, i
 
 When we talk about teaching and learning, we often gravitate toward technology and pedagogy, and sometimes we talk about the interaction between these two. But there's a third element that plays just as important of a role, and that's  _space_. Space matters, and it's a mistake to forget this. Have you ever tried using active learning techniques in a class with stadium seating with chairs bolted to the floor? Or, have you tried to use technology-enhanced pedagogy in class in a room that has only four electrical outlets? 
 
-In fact, the "built environment" projects a message to both teachers and students about just what kinds of learning experiences are expected. When you and your students walk into that room with the bolt-on chairs, what does this say about the expectations for the learning that will take place in that room? What message, when you look at this room --- a Steelcase-designed classroom  --- what kind of message does it send? 
+In fact, the "built environment" projects a message to both teachers and students about just what kinds of learning experiences are expected. When you and your students walk into that room with the bolt-on chairs, what does this say about the expectations for the learning that will take place in that room? When you look at this room --- a Steelcase-designed classroom  --- what kind of message does it send? 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-09-25/steelcase-classroom.png" alt="" class="full"> 
 

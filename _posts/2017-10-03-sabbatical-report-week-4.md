@@ -21,8 +21,6 @@ The Spanish class met in a room with several [Steelcase Verb tables](https://www
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-10-03/wmaa-spanish.png" alt="" class="full"> 
 
-(Note that I didn't take any pictures while I was there, out of concern for the privacy of the students. Just lots of sketches in my notebook.) 
-
 Students in the inner "U" would pivot around in their chairs and work with the people behind them in the outer "U". The desks themselves are made to be easily movable but they were never moved around, nor did they need to be moved around. 
 
 I was really impressed by the fact that the teacher had the students working actively the entire time except for a brief time when she debriefed a vocabulary exercise (and even that debrief was active) with no loss of attention in the students. The kids were into what they were doing and working hard. And this space is a fairly simple space to set up; honestly, it used Steelcase furniture but it didn't need to. The main aspect of the space that made this work was the fact that the chairs had wheels on them and could swivel. Had the same activities been deployed in a classroom where the seats were fixed or hard to move, it wouldn't have worked as well. 

@@ -55,7 +55,7 @@ The students had attended [ArtPrize](http://www.artprize.org/) in Grand Rapids t
 
 A few things stood out to me about my visit to the class. First, I saw the combination of digital and analog used effectively. Student teams started the design process by using the whiteboards to write out their ideas and their plans; they also used sticky notes to attach thoughts and ideas to the whiteboard. Then they could put the whiteboard put for the whole group to see, like this: 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-10-03/verb-whiteboard.png" alt="" class="full"> 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-10-03/verb-whiteboard.jpg" alt="" class="full"> 
 
 I thought about this later and realized that although you could replicate this ideation process using purely digital tools --- for example a shared Google doc where people could add and move text around --- none of the digital tools I could think of would work nearly as well as a plain whiteboard and sticky notes. Every kid had a computer, either their own or a Chromebook from a cart that lives in the classroom, so access isn't an issue; it's just that analog tools are simpler and require no fuss, and are therefore less in the way of ideation. Analog tools do exactly what you tell them to the first time, with no setup, no internet issues, no battery issues. By starting the process with analog and _then_ moving to digital (Google Slides) when it made sense, the workflow was a lot more natural, choosing the tool to fit the job. 
 

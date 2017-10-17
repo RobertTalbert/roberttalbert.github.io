@@ -4,6 +4,8 @@ permalink: /speaking/
 ---
 {% include toc %}
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Talbert-GW.jpeg" alt="" class="full"> 
+
 In addition to being a professor, I often give talks and workshops to college and university faculty on teaching and learning issues. My emphasis is on __providing research-based, yet practical help to college faculty on improving student learning, delivered with a lot of energy and a positive, student-centered attitude.__ My areas of emphasis include:
 
 + Flipped learning and the flipped classroom
@@ -19,7 +21,10 @@ If you are in in higher education and are looking for someone to come and work w
 
 | Event | Host | Location | Dates |
 | :----------| :--- | :------- | :---- |
-| Transitions Conference (session interlocutor) | Steelcase | Grand Rapids, MI | Sept. 14, 2017 |
+| Merging Minds and Technology Conference | Harvard/MIT | Boston, MA | November 11---12, 2017 | 
+| EDUCAUSE Learning Initiative meeting (ignite talk + panel) | EDUCAUSE | New Orleans, LA | January 29---31, 2018 | 
+| Flipped Learning workshop (title TBA) | California State Polytechnic Institute | Pomona, CA | April 13---15, 2018 | 
+| Keynote -- Learning Spaces conference | University of British Columbia | Okanagan, BC | May 2---3, 2018 | 
 
 
 ## Experience

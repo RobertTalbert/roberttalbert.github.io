@@ -7,6 +7,9 @@ tags:
   - Higher education
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-10-31/workcafe.jpg" alt="" class="full"> 
+
+
 As of this writing, I have been "on the job" at [Steelcase for my sabbatical](http://rtalbert.org/sabbatical/) for 55 days. It seems like much longer than that. But I remember that when I was putting the proposal together, I asked my Steelcase contacts whether I really needed a full year for this sabbatical or whether a single semester would suffice. They made it very clear that it would take the better part of 2-3 months just for me to get adjusted to the culture of the corporate environment in general, and Steelcase in particular. And they were right. Learning to be a fish out of water takes time. 
 
 But experiencing the corporate environment was part of my plan all along. Officially, the purpose of my sabbatical is to conduct research on teaching and learning and apply that research to help both Steelcase people and teachers do their jobs better. _Un_-officially, though, I want to conduct a sort of anthropology/organizational psychology research: Namely, to study how leadership, innovation, and creativity work in a corporate environment, especially ones with a track record of excellence like Steelcase. Although I am fully committed to higher education, I am convinced that higher education has serious systemic issues that need to be studied from  _outside_ higher education. I am taking the opportunity while I am in such a place to observe, take notes, ask questions, and get involved, to see what I might import back into higher education once I return in August 2018. 

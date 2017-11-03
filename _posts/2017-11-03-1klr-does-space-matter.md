@@ -63,5 +63,4 @@ I'd love to know what you thought of this, so leave your comments below.
 [^1]: Maybe you're getting tired of hearing about it. Sorry. 
 [^2]: Beichner, R. J., Saul, J. M., Abbott, D. S., Morse, J. J., Deardorff, D., Allain, R. J., … Risley, J. (2007). The Student-Centered Activities for Large Enrollment Undergraduate Programs (SCALE-UP) Project Abstract. Physics, 1(1), 1–42. Retrieved from [http://www.percentral.com/PER/per_reviews/media/volume1/SCALE-UP-2007.pdf](http://www.percentral.com/PER/per_reviews/media/volume1/SCALE-UP-2007.pdf) 
 [^3]: Dori, Y. J., & Belcher, J. (2005). How Does Technology-Enabled Active Learning Affect Undergraduate Students’ Understanding of Electromagnetism Concepts? _Journal of the Learning Sciences_, 14(2), 243–279. [http://doi.org/10.1207/s15327809jls1402_3](http://doi.org/10.1207/s15327809jls1402_3) 
-[^4]: For example, see Marsh, C., Vandehey, M. & Diekhoff, G. (2008). A comparison of an introductory course to SAT/ACT scores
-in predicting student performance. _The Journal of General Education_, 57, 244–255.
+[^4]: For example, see Marsh, C., Vandehey, M. & Diekhoff, G. (2008). A comparison of an introductory course to SAT/ACT scores in predicting student performance. _The Journal of General Education_, 57, 244–255.

@@ -27,27 +27,28 @@ This is a [quasi-experimental study](https://en.wikipedia.org/wiki/Quasi-experim
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-11-03/typical-classroom.jpg" alt="" class="full"> 
 
-The only variable allowed to vary systematically was the space. Otherwise the two sections were essentially the same: Same time of the day (8:15-9:55am), same instructor for both sections, same ways of assessing and calculating student grades, and the same teaching method used in both spaces. (Or, the instructor tried as hard as possible to keep the methods the same.) One section was Monday/Wednesday and the other Tuesday/Thursday, but it's hard to imagine this being a critical difference. 
+The only variable allowed to vary systematically was the space. Otherwise the two sections were essentially the same: Same time of the day (8:15-9:55am), same instructor for both sections, same ways of assessing and calculating student grades, and the same teaching method used in both spaces. Or, the instructor tried as hard as possible to keep the methods the same; the paper doesn't say much about the actual teaching methods used, but I assume that the instructor was using active learning in both sectinos. One section was Monday/Wednesday and the other Tuesday/Thursday, but it's hard to imagine this being a critical difference. 
 
 Students were _not_ randomly assigned to the sections (hence this is quasi-experimental) and there were differences in the student makeup: Importantly: The composite ACT score of the traditional section was 22.54 while that of the ALC section was 20.52 (a statistically significant difference). Otherwise there were no noteworthy demographic differences in the students. 
 
-The dependent variable in this study was student learning outcomes, as measured by the students' course grades. The null hypothesis for the study therefore is: 
+The dependent variable in this study was student learning outcomes, as measured by the students' course grades. Brooks constructed a regression model to predict what students' grades in each course would be based on their ACT scores. Ordinarily, ACT scores are reliable predictors of course grades in college[^4]. There are therefore two null hypotheses presented in the paper: 
 
->There will be no difference in the average course grades of students in the traditional section compared to those of students in the ALC section. 
+1. There will be no difference in the average course grades of students in the traditional section compared to those of students in the ALC section. 
+2. ACTs are not significant predictors of student grades. 
 
-Since ordinarily, ACT scores are reliable predictors of course grades in college[^4], the fact that the traditional section students have a significantly higher ACT composite than the ALC students should mean that, if space _doesn't_ have an impact on learning outcomes, then we should expect corresponding differences in the course grades. That is, if space has no real effect, the the null hypothesis should be rejected because there _will_ be differences in the course grades. Keep that in mind. 
+Here the logic of the study gets a bit complicated. If we had _equal_ groups of students, and one group was in a traditional space and the other in an ALC, the first null hypothesis would say we'd see no significant differences in their course grades --- i.e. space wouldn't make a difference, and we'd expect to reject that hypothesis. However, if our groups are _not_ equal --- if, for example, the traditional section had higher ACT scores than the ALC section --- then if space _does_ have a positive impact on its own, we'd expect _no_ significant difference in course grades. The deficit that's predicted by the ACT scores would fail to materialize. So we'd _fail to reject_ the first null hypothesis but _reject_ the second one. 
+
+Like I said, it's complicated. 
 
 ## What did it find out? 
 
-When the study was completed, _there was no significant difference in the course grades between the sections_. Ordinarily, we'd see this and conclude that the learning space made no real difference. (Failing to reject the null hypothesis is usually bad.) But here's where the logic of the study gets a bit tricky. Remember that we were "supposed" to see a significant difference between the two sections with the traditional section having higher grades, because their ACT composites were higher. But, we didn't. Brooks constructed a regression model to predict what students' grades in each course would be based on their ACT scores. In the traditional section, students performed more or less as the model predicted. In the ALC section, students' actual grades were far greated than predicted by the same model. 
-
-So, the fact that this expected difference in course grades _didn't_ show up even though we expected it to, is evidence (according to Brooks) that the space _does_ make a difference. The space is somehow making up for the difference in student learning outcomes that "should" have been there. 
+When the study was completed, _there was no significant difference in the course grades between the sections_. So according to the logic outlined above, we fail to reject the first null hypothesis. Usually that's considered bad. But, here it means something else. Remember that we were "supposed" to see a significant difference between the two sections with the traditional section having higher grades, because their ACT composites were higher. But, we didn't. In fact the ALC section performed much better than their ACT scores predicted (the traditional students did about as well as expected). So, according to Brooks, we take this as evidence that the space really does matter. The space is somehow making up for the difference in student learning outcomes that "should" have been there. 
 
 Brooks concludes that space indeed _does_ matter, since all other important variables were controlled for and the significant difference in course grades failed to materialize.  
 
 ## What does this mean for teachers and other ordinary people? 
 
-The results of the study suggest that the built environment can have a difference on its own in student learning, independently from pedagogy, (digital) technology, and so on --- that all other things being (sort of) equal, the learning space contributes to student learning. If you're a teacher, then, any change you can make to your learning space that would approximate an ALC could potentially help your students accomplish more. 
+The results of the study suggest that the built environment can have a difference on its own in student learning, independently from pedagogy, (digital) technology, and so on --- that all other things being (sort of) equal, the learning space contributes to student learning. If you're a teacher, then, and you're using active learning in a traditional space, any change you can make to your learning space that would approximate an ALC could potentially help your students accomplish more. 
 
 
 ## What are the strengths and weaknesses? 

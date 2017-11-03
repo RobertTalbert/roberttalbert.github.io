@@ -42,9 +42,7 @@ Like I said, it's complicated.
 
 ## What did it find out? 
 
-When the study was completed, _there was no significant difference in the course grades between the sections_. So according to the logic outlined above, we fail to reject the first null hypothesis. Usually that's considered bad. But, here it means something else. Remember that we were "supposed" to see a significant difference between the two sections with the traditional section having higher grades, because their ACT composites were higher. But, we didn't. In fact the ALC section performed much better than their ACT scores predicted (the traditional students did about as well as expected). So, according to Brooks, we take this as evidence that the space really does matter. The space is somehow making up for the difference in student learning outcomes that "should" have been there. 
-
-Brooks concludes that space indeed _does_ matter, since all other important variables were controlled for and the significant difference in course grades failed to materialize.  
+When the study was completed, _there was no significant difference in the course grades between the sections_. So according to the logic outlined above, we fail to reject the first null hypothesis. Usually that's considered bad. But, remember that we were "supposed" to see a significant difference between the two sections with the traditional section having higher grades, because their ACT composites were higher. But, we didn't. In fact the ALC section performed much better than their ACT scores predicted (the traditional students did about as well as expected). So, according to Brooks, we take this as evidence that the space really does matter. The space is somehow making up for the difference in student learning outcomes that "should" have been there. 
 
 ## What does this mean for teachers and other ordinary people? 
 
@@ -53,7 +51,7 @@ The results of the study suggest that the built environment can have a differenc
 
 ## What are the strengths and weaknesses? 
 
-The main strength of the study is that it actually tries to isolate confounding variables to separate the learning space from other factors. Although I am still not 100% sure I accept the logic behind the conclusion (that failing to reject the null hypothesis indicates a causative effect of space on learning outcomes), there is at least an attempt to separate pedagogy from space here, unlike the SCALE-UP or TEAL studies. And it focuses on actual learning outcomes, whereas many other studies focus on affective items like motivation, student perceptions about the space, and so on. (Not that affective stuff is bad or useless, but data on learning outcomes is sorely needed.)
+The main strength of the study is that it actually tries to isolate confounding variables to separate the learning space from other factors. Although I am still not 100% sure I accept the logic behind the conclusion, there is at least an attempt to separate pedagogy from space here, unlike the SCALE-UP or TEAL studies. And it focuses on actual learning outcomes, whereas many other studies focus on affective items like motivation, student perceptions about the space, and so on. (Not that affective stuff is bad or useless, but data on learning outcomes is sorely needed.)
 
 The study isn't without limitations. The biggest one (which Brooks points out) is that this is only two sections of a single class taught in one semester by a single instructor. The study would need to be replicated on a larger scale to give a bigger picture. I also am not fond of using course grades as a proxy for learning gains, since oftentimes course grades are composed of items such as attendance, extra credit, and so on which don't have solid connections to actual student learning. Using something like a concept inventory or a standardized content final exam would have been more convincing. 
 

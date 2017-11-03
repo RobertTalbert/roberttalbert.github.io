@@ -35,7 +35,7 @@ The dependent variable in this study was student learning outcomes, as measured 
 
 >There will be no difference in the average course grades of students in the traditional section compared to those of students in the ALC section. 
 
-Since ordinarily, ACT scores are reliable predictors of course grades in college[^4], the fact that the traditional section students have a significantly higher ACT composite than the ALC students should mean that, if space _doesn't_ have an impact on learning outcomes, then we should expect corresponding differences in the course grades. That is, if space has no real effect, the the null hypothesis should _fail_ to be rejected. Keep that in mind. 
+Since ordinarily, ACT scores are reliable predictors of course grades in college[^4], the fact that the traditional section students have a significantly higher ACT composite than the ALC students should mean that, if space _doesn't_ have an impact on learning outcomes, then we should expect corresponding differences in the course grades. That is, if space has no real effect, the the null hypothesis should be rejected because there _will_ be differences in the course grades. Keep that in mind. 
 
 ## What did it find out? 
 

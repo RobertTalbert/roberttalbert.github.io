@@ -13,7 +13,7 @@ My main purpose for being there was to give a session called _"Time, Space, Acti
 
 Here are the slides: 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTDp3DFQ_t8uOj_sYNrMl4HveR8_EKITkdYeeQsjBS8pdVwa8lH8DYRCczwptfqZYWUGoq5uqPpA7L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTDp3DFQ_t8uOj_sYNrMl4HveR8_EKITkdYeeQsjBS8pdVwa8lH8DYRCczwptfqZYWUGoq5uqPpA7L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Here's the gist of the talk. 
 

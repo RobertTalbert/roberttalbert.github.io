@@ -51,6 +51,8 @@ This one's a cool design because it includes all kinds of different spaces, incl
 
 What do you think? What aspects of flipped learning can be helped or hindered by the way we design the physical space? 
 
+_Note: All images in this post are property of Steelcase and used by permission._
+
 
 [^1]: In the context of this article, we're assuming either a face-to-face class design or a hybrid design where there is significant face-to-face group interactions. Fully online courses are different. 
 [^2]: Here, I have to give a hat tip to [Susan Cain's book and what I learned from it](http://rtalbert.org/four-takeaways-from-quiet/). I encourage everyone reading this, to read her book and apply it to your teaching. 

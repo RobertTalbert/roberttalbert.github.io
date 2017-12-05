@@ -46,9 +46,10 @@ When I do read a paper, I will do so in Mendeley but put my notes on the paper i
 
 I could really stop right here and have a decent, functional system for acquiring, reading, and annotating research. But with a remote collaborator (and just to keep myself organized) I also need something to track the process: Enter Trello. I've set up this board and added my collaborator as well as a couple of other Steelcase people who are interested in the project: 
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-12-05/trelloboard.png" alt="" class="full"> 
+
 The board has lists for __Information__, __Queue__, __Next Up__, __Reading__, __DONE__, and __Removed from Study__. The categories are self-explanatory (and they are a lot like those on the Grading Status Board I mentioned earlier; in fact most of my Trello boards for projects have this structure). The way that the board gets used is like this: 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2017-12-05/trelloboard.png" alt="" class="full"> 
 
 - When either my collaborator or I finds a paper that merits study, we add it to the __Queue__ by creating a card for it, titled using the universal naming scheme. We also add the PDF of the paper directly to the card --- crucially important because this way we can share files. I do this by using [the Google Drive power-up for Trello](http://info.trello.com/power-ups/google-drive) which allows me to link directly to the paper in my Drive; my collaborator prefers to just drag-and-drop the PDF onto the card. Either way works. 
 - My collaborator and I both occasionally look in the queue and see if there are any papers that we specifically want to read. If I find one that suits me, I will claim it by adding myself as a "member" of that card. This puts my avatar on the card, letting my collaborator know that I'm doing that paper and she doesn't have to (and vice versa, if she claims a paper). 

@@ -47,7 +47,7 @@ One key question we’re asking ourselves is how the nature of face-to-face lear
 
 __+1 What question should I have asked you in this interview?__
 
-What is a specific technology trend that you are tracking? 
+>What is a specific technology trend that you are tracking? 
 
 AI (artificial intelligence) is a technology trend we’re tracking. A question that we’re thinking about currently and that many other organizations are thinking about is how AI will impact the nature of work. Consumer AI adoption is accelerating with products such as Amazon’s Alexa and Google’s Home products. We’re now seeing schools beginning to place Amazon Alexa in classrooms and schools libraries. Physicians are using AI to help read through thousands of medical journals and suggest diagnoses. Companies such as Cisco and Voicera are introducing AI into meeting experiences. 
 

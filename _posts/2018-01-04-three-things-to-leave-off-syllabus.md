@@ -7,7 +7,7 @@ tags:
   - Teaching
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2018-01-04/syllabus.png" alt="" class="full">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/syllabus.png" alt="" class="full">
 
 For many profs, it's a matter of days until the new semester starts. That means that if you are like most professors, you are either getting your first-day materials finished and printed, or you're putting it off. (Being on sabbatical, I do not miss the chaos of the days before classes start, but I remember the feeling well.) The syllabus is especially problematic: You have to construct this document so that it is complete, organized, and readable, and God help you if you should leave anything important out of it, because you have to cover all imaginable bases in the syllabus. Right?
 

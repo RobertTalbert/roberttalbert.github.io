@@ -48,3 +48,6 @@ I can hold very high standards of rigor this way without regrets, because studen
 If there is any dispute, it will not be stupid point-grubbing but rather a discussion about _mathematics_ and about _professional standards of work_. Because I am not agonizing over points, I have time to give this kind of feedback. And the student _has_ to address the feedback in order to earn the __Mastery__ rating. 
 
 "Try again" is just a lot better than "10/12". 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTc4NzIwODIwXX0=
+-->

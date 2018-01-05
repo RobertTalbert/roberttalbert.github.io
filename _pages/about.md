@@ -5,10 +5,9 @@ permalink: /about/
 
 Hi there. I'm Robert Talbert and welcome to my website.
 
-I am an Associate Professor in the [Mathematics Department](http://www.gvsu.edu/math/) at [Grand Valley State University](http://www.gvsu.edu/) in Allendale, Michigan USA. In this position I teach 2-3 classes a semester, conduct research (mostly in the teaching and learning of undergraduate mathematics, but sometimes in pure mathematics), and serve the university and the broader community in a number of ways.
+I am a Professor in the [Mathematics Department](http://www.gvsu.edu/math/) at [Grand Valley State University](http://www.gvsu.edu/) in Allendale, Michigan USA. In this position I teach 2-3 classes a semester, conduct research (mostly in the teaching and learning of undergraduate mathematics, but sometimes in pure mathematics), and serve the university and the broader community in a number of ways.
 
 My undergraduate degree is in Mathematics from [Tennessee Technological University](https://www.tntech.edu/). My Ph.D. degree is in Mathematics from [Vanderbilt University](http://www.vanderbilt.edu) (1997) where I studied algebraic topology, homological algebra, and category theory under the direction of [Efstratios Prassidis](http://myria.math.aegean.gr/~stratos/). Prior to GVSU, I was on the faculty at [Bethel College (Indiana)](https://www.bethelcollege.edu/) and [Franklin College](http://franklincollege.edu/). 
-
 
 I'm active as a speaker and consultant in the areas of __flipped learning__, __teaching with technology__, __self-regulated learning__, and other areas. To learn more about my speaking and consulting, please head over to my [Speaking page](http://rtalbert.org/speaking/).
 

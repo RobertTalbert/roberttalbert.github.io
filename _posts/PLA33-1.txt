@@ -1,0 +1,155 @@
+While solving these problems I looked back on previous work we had done in class. I used these previous problems as a template to help guide the current problem I was working on. To solve problem one I knew I had to take the derivative of the function and set it equal to zero. By reviewing a problem we had recently done in class I was able to identity that I was given a closed interval and didn’t need a first derivative sign chart. Following an example given to me in class really helped me to succeed on these problems. My professor always stresses explaining in words what you are doing, so by doing this it helps me understand what I am actually doing while solving the problem.
+
+I first write out the equation on a piece of paper so that I can reference it later. If I don’t have the equation right away, I create a small diagram or picture to help me think it through. For the third problem I drew a river with a fenced in area to help determine the equation. I then find the derivative of the equation. With that I find the critical points. I will then test to see if it is increasing or decreasing between the different intervals created by the endpoints and the critical points. After that I plug values into the equation and determine the exact minimums and maximums of the equations. After I find my answer, I usually create a graph to see if I was correct.
+I referrred to notes taken in class, as well as solutions posted on Blackboard by my professor to check for the classification of the problem, and how to handle it further.
+The answers to preview activities and quizzes were a big help because the answers to those are more based on my comprehension of the subject hence are the most used resource.
+I mainly had my notebook open with examples of finding global highs and lows. This gave me a base idea of which step I would take next. As for finding the derivative of equations or factoring equations out I really had to rely on basic concepts from earlier in the class or review algebra rules.
+I looked through my notes on 3.3 Global Optimization and tried to follow the steps by first finding the critical numbers by calculating the derivative and then simplifying. Then I plugged the critical numbers into the original function. I found the global max by using looking at the solutions the biggest solution of the numbers I plugged in was for -2 which means its the global max. The lowest solution I found was 0 meaning it is the global min.
+Methods that I used while working on these problems is looking over past similar problems to help me stay consistent with my work. I enjoy being sure to write my answers similar to others so that I have a pattern in my mind and organization of how the answer should look. For example, I used the same ideas when writing my critical numbers chart so that comes easy to me when I need to know how to quickly set up the problem. Some of the problems I was unsure if I had found the correct critical numbers or incorrect derivative to begin with. To make sure I was correct, I used GeoGebra to check my answers. GeoGebra allowed me to make sure my derivative was right and I was able to use the graph to identify critical points. 
+While working on problems 1 and 2, I used the questions we did in class to help guide me through the problems. I  also used the questions from class as a reference to what work should be shown while solving the problems. For question 3, I first made a diagram of the problem and compared it to the problem similar to it from lecture to make sure I was following the correct steps.
+What I do solve the problems is mostly note dependent. A lot of the material in chapter 3 is very hard for me to understand. Usually I try to analyze my problem at first, making sure I understand all of what is being asked of me to figure out. next is labeling and understanding which pieces go where. Then work through the problem ti the best of my abilities.
+These problems helped me review material because I had to apply derivative rules, especially in problems #1 and #2. I asked my roommate to check my work after doing these problems. They were pretty easy, except for #2 which I had a little bit of trouble with because of the “a” value. The extra variable threw me off a little bit, but I managed to figure it out based on what I have learned in MTH 201. I checked my solutions by graphing them on a calculator and also using my laptop as a resource if I was not sure about the correctness of my answer. 
+
+one way that i used to check for the correctness of my answers was i graphed the derivative. doing this i could for the critical points. i could tell where they were because the graph of the derivative would cross the x axis. using these points i could find the y values which allowed me to find the global maxs and mins.
+While working on problems one and two I used global optimization to solve. First, I had to find the derivative of the equation by using the product rule and chain rule. I then set my solution equal to zero, solving for what the critical numbers would be (not including the endpoints). Then, after finding the critical numbers, I had to plug in these numbers, as well as the endpoints, into the original equation. I then solved these and discovered what the global maximum and minimum would then be. For problem three, I used basic perimeter and area principles to solve for the length and width.
+For problem one I found that the example problem that we did in class helped a lot. It was a lot easier than the problems on the homework but It got me through some of the conventions that I encountered in the homework. I also used Geogebra to check my answers after I finished the homework to make sure that they were correct. I love using Geogebra because it is very user friendly and can really help guide me in the right direction when solving a problem or checking my answer.
+I used problems from class that were similar to the problems on this homework. I also used the internet to figure out what I didn't know.
+I used the product rule to determine the derivative of the equation, and then set the derivative of the function equal to 0 in order to solve for the critical numbers. I then plugged the endpoints and critical numbers into the original equation to determine which x-values yielded the highest or lowest y-values. The results were my global maximum and minimum values for the interval.
+I think the derivative rules are what really helped me through the majority of the problems. It is very important to find the first derivative of the original function correctly, if this is not done correctly the rest of the problem could end up being wrong. This is also a point that caused reinforcement of all the types of derivative rules. When it came to planning for the solution, I used the same methods presented in class; for example, solving for the critical numbers by setting the derivative equal to zero. One method I considered to check the correctness of my critical numbers is graphing the derivative of the function and finding where it crosses the x-axis. This was just another way to confirm that I had the correct critical numbers. 
+The main goal was to find the critical points and to plug them into the equation. to get to that point I first needed to find the derivative of the original equation which I got 2x * e^x. I needed to use product rule because there were two different section being multiplied. Then I set that equal to zero and plug in my critical numbers three different times into the equation which are -2,0,2. Then I receive my answers 29.56, 0 and .54. I pick the lowest number which is 0 for the global min then the highest number which was 29.56 for global max. 
+For the problems in order to solve them, it was important to review the material in order to properly remember how to complete the problem. The plan of the solution, for problem one and two, included first finding the derivative for the problem, then finding the critical numbers and plugging them in to find the max and the min. In order to find the derivative it was important that I first understood the problem in terms of how the numbers themselves were changed. Writing up the solution was simply just executing these steps in order to get the answer to the problem. For the last problem it was a little trickery in the way that I had to make sure I truly understood it conceptually.  
+I used the first derivative to find critical numbers for each equation. Then figured out whether they were mins, maxes, or neither.
+When doing problems such as finding global minimums and maximums I graph the function after in order to confirm my answer. Also, when solving for an equation you can often plug numbers into the equation to see if you did it correctly.
+The first step is always to read the problem,understand what it has to be done. from the 1-3 problem it was easier to know that to find the global max and min the derivative must be taken. After that I plug in the values in the priginal function to get the points and then i confirmed my results by grahing the function and the derivative of the function in geo gebra  
+To solve the problems i referenced in class activities for what steps to take in doing the problem. I could solve for the derivatives using rules we have learned in class, and i checked that they were correct using https://www.derivative-calculator.net which also made sure I used the right rules for the equation. I also made sign chart and critical value tables.
+In order to solve the problems I went online to google and searched up similar problems.  This way I would know how to approach the problem. To check the correctness of my answer I went to graph it online, along with using online derivative calculators to make sure that I didn't make any basic mistakes.  
+1_ x=0 and x=-2 3_ unsolvable 
+I used the internet to check my solutions. I knew how to write the solutions and plan the solution based on previous work. 
+I went to my tutor to help me understand what I was supposed to do exactly as well as the math center. Then I went step-by-step through the problems to try and get to the answer. Also, I went to Youtube to watch videos on optimization because I still don't get how to do it. 
+The methods I use to check my solutions are using my calculators graphing function as well as the table function. This allows me to test different values and find zeros. Most of the time I use this after the problem is done as a self-check to make sure everything is right. I also use the internet when I cannot solve problems as there are often solutions online that show steps on how to complete the problems. If I still am having trouble finding that solution online or graphing it with my calculator I will use the internet to find similar problems to practice.
+I did the work using a calculator (TI-84 plus) and then went back and checked my work with Wolfram Alpha.
+The first thing i did was to try it on my own without the help from my notes. once i got stuck, i would go check my notes to see if i was heading down the right path. After that I would move along. For the problem itself, I write down everything  I know about the question, draw a picture and formulate what i will do next from there.
+All these problems were things we already learned so they were easy. i would check the dirivitives i got with a calcular online to make sure i was doing it correctly. for the second problem i would refrence the first often because they were basically the same.
+I first found the derivative of the equation. I then found where the derivative equals zero. I took those x values and the endpoints and plugged them in to the second derivative to determine if they were concave up or down. This told me if the values were mins or maxs. After I figured that out I checked the graph to see if I was correct.
+First, I took the derivative of the equation. Then I factored out an e to the negative x. I found three zeros, e to the negative x , x equals zero, and x equals two. I plugged in the zeros that worked, which were zero, and two into my original equation along with the points at the interval negative two and two. I got zero for my global minimum and 29.556 for my global maximum.
+I reviewed in my notes to see how I approached the problems in the past, compared to the present problem. Analyzed the similarities and differences, asked myself what is it asking for and gave a good thought of how I'd solve the problem.    
+During Professor Dogru's instruction I wrote a numbered list of all the necessary steps in solving the problem, and in solving the problem I followed the steps to find a solution. However if i'm not provided with an initial instruction by the professor there is no chance in any understanding of the subject. 
+I would draw a picture. 
+I start by re-writing the question and the derivative that I have to solve. I go through it mentally how I think it should be solved then I begin to solve it. If I forget something I went back to my notes. Once I solved it I ran it through the derivative calculator to verify I had it right.
+I always like toe check an answer using a graph if possible so once I got an answer that seemed correct I used Desmos to graph the function and compare my min and max values. 
+Anytime I can, I like to refer to a graph to compare my answer to it. I often will pull up Desmos to see if my max and min values correlate with the graph.
+I used the notes I took in class.
+it said to find the global max and min and i know those are critical values and i know that critical  values are turning points in the graph so they are where the derivative equals zero so i took the derivative of the equation and then solved for x but i wasn't able to get any solutions because they all came out to zero. 
+Checked notes 
+I reviewed my notes for help on how to remember the process of global max and min. The problem required the product and chain rule to get the functions derivative then i used values in each interval. I used the values -2, 0, and 2. Once you get these values you reenter them into the x's in the derivatives.
+I watch the GVSU online videos, and watch Khan academy videos. Then I try it by myself. If I still cannot get it, I ask a classmate.
+I study a lot
+I used my old notes and old problems to get a standpoint on how to start and then did it on my own. 
+I used notes to try and make the problems easier. I related the notes to the problems which made the problems easier to solve. If the notes didn't help, then I used the videos from the section given by our instructor on her webpage.
+While doing problem one and two where you would have to take a lot of derivatives, I would make sure to use Wolfram Alpha to check to make sure my calculations were correct so that I knew my answers were on the right track. 
+For the optimization problem, I made sure to draw out a picture because I know that it makes it easier myself to envision the end goal if there's a photo on the paper with me. 
+I first thought about the problem in my head and mapped out what I wanted to do. My next step was putting it down on paper so I don't forget it. 
+I went back and looked at my notes that I had for how to find global min and max and how to do optimization problems. I found the derivative and solved for zero for each problem. I graphed each to see if I had found the correct max and mins.
+I have prior knowledge of the material since I took AP Calculus AB in high school. So usually I review the handouts she gave in class and do a few practice problems. The web work also gives me a good background. I usually look at the problem and I already know what to do. I'll set it up, and then use the concepts that we learned. More often than not, we have two equations set equal to each other and I find the term that we're looking for.
+.
+The strategies I used while working on these problems involved reviewing the topics, doing practice problems, and then doing the problem and double checking if the answer I got was correct. These strategies helped me think through the problem and come up with a solution.
+methods i used was just trying to find and make an equation out of everything and then solve from there 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

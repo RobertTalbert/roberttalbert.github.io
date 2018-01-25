@@ -54,3 +54,5 @@ You have to have a reasonably sound idea about calculus to even know that this c
 Anybody who says that a student who can work through this series of questions and share their thinking in a clear and coherent way isn't "doing calculus" needs an update to their definition of "doing calculus". Again, if the ability to take derivatives by hand is important, and I think it is at least a little important, then this can be done elsewhere, for example through gateway exams or as part of a standards-based grading package. But, let the human do human things and the computer do computer things. 
 
 Computation is computation no matter where it's found. Learn it by hand to the extent that it helps you reason about it, and come to a strong understanding of the algorithms that govern it. But then let the computer do it and focus on the human part instead. Unless, like me, you find doing hand computations to be relaxing --- in which case, enjoy it as much as you want! 
+
+Image: https://pixabay.com/p-2750415/?no_redirect 

@@ -1,6 +1,6 @@
 ---
 title: "How do students with learning disabilities experience online and blended courses?"
-excerpt: "In this #1KLR article, we look at a study on the experiences of students with learning disabilities in online and blended courses to see what we might learn about those students' experiences with flipped learning environments."
+excerpt: "We look at a study on the experiences of students with learning disabilities in online and blended courses to see what we might learn about their experiences with flipped learning environments."
 comments: true
 share: true
 tags:

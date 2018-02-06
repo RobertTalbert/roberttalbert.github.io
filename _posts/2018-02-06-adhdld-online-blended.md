@@ -8,7 +8,7 @@ tags:
   - 1KLR
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/studying.png" alt="" class="full">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/studying.jpg" alt="" class="full">
 
 The main focus of [my sabbatical year](http://rtalbert.org/sabbatical) has been the work I'm doing with Steelcase Education, but it's not the only project I'm working on. On the two days each week I am not on site at Steelcase, I'm working on two research projects related to flipped learning that were started a few years ago and for various reasons got put on the back burner; I'm taking 2/5 of my sabbatical time to put them on the front burner and get them moving again. 
 

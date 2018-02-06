@@ -20,7 +20,7 @@ Although the research on flipped learning is still growing exponentially, I've f
 
 ## What questions does this paper try to answer? 
 
-First, some terminology. _Online_ courses mean courses where 100% of the teaching and learning take place through intentional online activities. _Blended_ (sometimes called "hybrid") courses are those where some significant percentage, usually more than 20% but less than 100%, of teaching and learning is done online, and the rest is done through face-to-face meetings. (The lower limit is usually defined by individual institutions and often is between 15% and 30%.) 
+First, some terminology. _Online_ courses are those in which 100% of the teaching and learning take place through intentional online activities. _Blended_ (sometimes called "hybrid") courses are those where some significant percentage, usually more than 20% but less than 100%, of teaching and learning is done online, and the rest is done through face-to-face meetings. 
 
 The questions that this paper addresses are:
 

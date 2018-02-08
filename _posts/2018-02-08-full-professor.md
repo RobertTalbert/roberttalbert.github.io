@@ -19,7 +19,7 @@ You also don't get to this point without thinking a lot about what's ahead. I've
 
 ---
 
-At its most superficial, being a tenured full professor means that I can basically do whatever I want in my job. I will never again submit a portfolio for consideration for continued employment or advancement[^1]. So, if I wanted to shift my emphasis from teaching to research, I could do it. If I wanted to stop doing research altogether and do only teaching, I could do that too. If I wanted to retreat from professional work altogether and just to the bare minimum required not to be fired, I could do that. It's actually a little intoxicating.
+At its most superficial, being a tenured full professor means that I can basically do whatever I want in my job. I will never again submit a portfolio for consideration for continued employment or advancement[^1]. So, if I wanted to shift my emphasis from teaching to research, I could do it. If I wanted to stop doing research altogether and do only teaching, I could do that too. If I wanted to retreat from professional work completely and just do the bare minimum required not to be fired, I could do that. It's actually a little intoxicating.
 
 And yet, just because I _can_ do something, doesn't mean that I _should_. I have interest in, or plans for, doing the bare minimum, nor am I throwing caution to the wind in my teaching because I am now student-evaluation-proof. I will, in fact, do whatever I want; but "what I want" has evolved, shaped by 20 years of work with students and faculty. _What I want_, is to make higher education a place that truly lives up to its potential to be a positive force in the lives of students and to make the world a better place. 
 

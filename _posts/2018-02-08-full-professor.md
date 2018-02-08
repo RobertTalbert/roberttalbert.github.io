@@ -15,7 +15,7 @@ You might be wondering: _Didn't you just get tenure?_ Yes, back in May. When I c
 
 This is clearly a major milestone in my life and career, which began 20 years ago. I'm humbled, grateful, and keenly aware that nobody gets to this point in higher education without leaning heavily on the help, mentorship, and sometimes the mercy of other people. 
 
-You also don't get to this point without thinking a lot about what's ahead. I've had the good fortune of [a year-long sabbatical](http://rtalbert.org/sabbatical) bookended by summers quite deliberately focused on nothing but rest and reflection --- 15 months in all --- to get outside my usual context and think deeply about where I am headed next and what this new senior rank (because although I've been tenured before, I've never been at Full Professor) means for me. 
+You also don't get to this point without thinking a lot about what's ahead. I've had the good fortune of [a year-long sabbatical](http://rtalbert.org/sabbatical), bookended by summers quite deliberately focused on nothing but rest and reflection --- 15 months in all --- to get outside my usual context and think deeply about where I am headed next and what this new senior rank (because although I've been tenured before, I've never been at Full Professor) means for me. 
 
 ---
 

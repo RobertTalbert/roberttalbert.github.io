@@ -81,7 +81,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Math, education, technology, productivity."
   location         : "Grand Rapids, MI"
-  email            : robert.talbert@gmail.com
+  # email            : robert.talbert@gmail.com
   uri              : "http://rtalbert.org"
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   github           : RobertTalbert
   google_plus      : RobertTalbert
   keybase          :
-  instagram        : rtalbert
+  # instagram        : rtalbert
   lastfm           :
   linkedin         : RobertTalbert
   pinterest        :

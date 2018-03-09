@@ -20,11 +20,9 @@ If you are in in higher education and are looking for someone to come and work w
 <!-- Nothing is booked at the moment! See below for information on how to contact me for talks and workshops.  -->
 
 | Event | Host | Location | Dates |
-| :----------| :--- | :------- | :---- |
-| EDUCAUSE Learning Initiative meeting (ignite talk + panel) | EDUCAUSE | New Orleans, LA | January 29---31, 2018 | 
-| Flipped Learning: Roots, Research, and Future Directions | Indiana University | Bloomington, IN | February 16, 2018 | 
-| Flipped Learning workshop (title TBA) | California State Polytechnic Institute | Pomona, CA | April 13---15, 2018 | 
-| Keynote -- Learning Spaces conference | University of British Columbia | Okanagan, BC | May 2---3, 2018 | 
+| Flipped Learning workshop | California State Polytechnic Institute | Pomona, CA | April 13, 2018 | 
+| Keynote -- Learning Spaces conference | University of British Columbia | Okanagan, BC | May 2, 2018 | 
+| Keynote -- Board of Governors' meeting   | Florida State University System | Orlando, FL | May 7, 2018 | 
 
 
 ## Experience

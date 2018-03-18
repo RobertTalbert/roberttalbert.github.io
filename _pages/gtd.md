@@ -9,9 +9,9 @@ Around 2008, I discovered **Getting Things Done**, a philosophy of work manageme
 
 In 2016-2017, I wrote a 10-part series of articles on **GTD for Academics** that gives an overview of GTD and how it applies to academic work, to help my fellow faculty members gain control over their work and prevent it from crowding out the things they find important. Many faculty have singled this series out as being particularly helpful for them, and so I am collecting all the links here in one easy-to-locate page. 
 
-1. [Setting the Stage](http://rtalbert.org/blog/2016/gtd-for-academics-setting-stage). Who needs GTD anyway? 
-2. [Engaging the System](http://rtalbert.org/blog/2016/gtd-for-academics-engaging-system). What are the characteristics of a really good productivity system? Or, why do to-do lists suck? 
-3. [Acquiring the Habits](http://rtalbert.org/gtd-for-academics-acquiring-the-habits/). What are the behavioral building blocks needed to gain control over our stuff? 
+1. __[Setting the Stage](http://rtalbert.org/blog/2016/gtd-for-academics-setting-stage).__ Who needs GTD anyway? 
+2. __[Engaging the System](http://rtalbert.org/blog/2016/gtd-for-academics-engaging-system).__ What are the characteristics of a really good productivity system? Or, why do to-do lists suck? 
+3. __[Acquiring the Habits](http://rtalbert.org/gtd-for-academics-acquiring-the-habits/).__ What are the behavioral building blocks needed to gain control over our stuff? 
 4. [Collect](http://rtalbert.org/gtd-for-academics-acquiring-the-habits/). How can we build a simple system for capturing the stuff that comes through our minds and inboxes? 
 5. [Process](http://rtalbert.org/gtd-for-academics-process/). What do we do with the stuff that we capture? And, is Inbox Zero just a pipe dream? 
 6. [Planning](http://rtalbert.org/gtd-for-academics-plan/). How can we organize our time so that we can get the stuff done that we processed, and not have to work nights and weekends all the time? 

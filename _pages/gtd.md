@@ -21,3 +21,5 @@ In 2016-2017, I wrote a 10-part series of articles on **GTD for Academics** that
 10. [The Trimesterly Review](http://rtalbert.org/trimesterly-review/). What can we do on a not-as-regular basis to make sure all the work items we do are fruitfully connected to the Big Picture in our lives? 
 
 I hope you find these articles useful and helpful. Please contact me if you have questions or suggestions. 
+
+**_Coming Soon?_** I am considering cleaning these articles up, updating them, and adding to them in 2018 and publishing them in some sort of book form. Stay tuned. 

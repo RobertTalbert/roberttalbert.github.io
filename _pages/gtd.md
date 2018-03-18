@@ -7,7 +7,7 @@ Academic work is hard. But sometimes we academics make it harder by entering int
 
 Around 2008, I discovered **Getting Things Done**, a philosophy of work management promulgated by David Allen in his book [Getting Things Done: The Art of Stress Free Productivity](http://a.co/4plWLsl) and it changed my life. 
 
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00KWG9M2E&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_gpQRAbKHRBQ6N" ></iframe>
+<iframe type="text/html" width="183" height="300" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00KWG9M2E&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_gpQRAbKHRBQ6N" ></iframe>
 
 It is a system based on the idea of *capturing ideas* that come into your head or inbox, *breaking them down* into easily-doable tasks organized by projects (and filing away or deleting those tasks that don't need to be done), and then *executing* those tasks that best fit your time, energy, and context at the moment --- always focusing on the question: **What's the next action?** 
 

@@ -1,6 +1,6 @@
 ---
 title: "Grading with GTD"
-excerpt: "How can we get academic grading under control so it doesnt take over our lives? The core habits of etting Things Done can help."
+excerpt: "How can we get academic grading under control so it doesnt take over our lives? The core habits of Getting Things Done can help."
 comments: true
 share: true
 tags:

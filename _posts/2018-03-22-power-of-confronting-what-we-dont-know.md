@@ -1,6 +1,6 @@
 ---
 title: "The power of confronting what we don't know"
-excerpt: "Why do so any students want to return to traditional pedagogies, even when they see the benefits of active learning?"
+excerpt: "Why do so many students want to return to traditional pedagogies, even when they see the benefits of active learning?"
 comments: true
 share: true
 tags:

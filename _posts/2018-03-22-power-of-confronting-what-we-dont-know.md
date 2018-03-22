@@ -47,7 +47,7 @@ _Images_:
 - https://pixabay.com/en/line-floor-leaves-red-boundary-2917062/
 - https://commons.wikimedia.org/wiki/File:Zone_of_proximal_development.svg
 
-[^1]: Let me reiterate something I've said before: Lecture is not inherently bad. Lecture is a tool that every professor should have sharpened, and use it well in the instances where it's called for. But: Using it as the only tool for every job, failing to give formative assessment to students in lecture to see if they are actually learning anything and failing to change course if the results come back unfavorably, or failing to get students in any way involved actively with the learning process, is simply a an advanced form of helicopter parenting and is not only bad [but unethical](https://medium.com/@roberttalbert/active-learning-as-an-ethical-issue-8c8daaecf72b). 
+[^1]: Let me reiterate something I've said before: Lecture is not inherently bad. Lecture is a tool that every professor should have sharpened, and use it well in the instances where it's called for. But: Using it as the only tool for every job, failing to give formative assessment to students in lecture to see if they are actually learning anything and failing to change course if the results come back unfavorably, or failing to get students in any way involved actively with the learning process, is simply an advanced form of helicopter parenting and is not only bad [but unethical](https://medium.com/@roberttalbert/active-learning-as-an-ethical-issue-8c8daaecf72b). 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTUwMjc5MDYzM119
 -->

@@ -90,7 +90,7 @@ So the ultimate purpose of all the preparation I've mentioned to build a structu
 
 ---
 
-Image: 
+Image: [https://commons.wikimedia.org/wiki/File:Public_speaking.jpg](https://commons.wikimedia.org/wiki/File:Public_speaking.jpg)
 
 
 

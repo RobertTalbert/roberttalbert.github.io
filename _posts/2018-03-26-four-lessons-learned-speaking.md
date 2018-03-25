@@ -13,7 +13,7 @@ Somewhere along the way in my career, I started doing a lot of talks. It started
 
 Recently I had the privilege to speak at [TEDxGVSU](https://www.tedxgvsu.com/). Giving a TED talk is a big deal. For many, it's the pinnacle of what it means to be a speaker[^1]. So, the experience of giving one gave me the opportunity to reflect on my development as a speaker. I took notes and wrote down a bunch of lessons that I have learned over the years, and I wanted to pass along the top of that list. I definitely have a lot to learn in speaking, but maybe some of these thoughts will be useful for you. 
 
-Please note, that here I will merely affirm, rather than repeat, basic good advice about public speaking. Most of that has already been covered and done well, for example [Tufte's classic essay on PowerPoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf), Joe Gallian's [How to Give a Good Talk](https://faculty.math.illinois.edu/~reznick/gallian.pdf) (mainly targeted at math talks but applicable anywhere), or David Stern's [How to Give a Talk](http://www.howtogiveatalk.com/) (presumably a _good_ one).
+Please note that here I will merely affirm, rather than repeat, basic good advice about public speaking. Most of that has already been covered and done well, for example [Tufte's classic essay on PowerPoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf), Joe Gallian's [How to Give a Good Talk](https://faculty.math.illinois.edu/~reznick/gallian.pdf) (mainly targeted at math talks but applicable anywhere), or David Stern's [How to Give a Talk](http://www.howtogiveatalk.com/) (presumably a _good_ one).
 
 ## 1. Always assume that technology will fail. 
 
@@ -26,8 +26,8 @@ _Sometimes_ all the tech used in a talk works perfectly. But, the Rule of Techno
 To live with the Law of Technology, I follow these three **Rules of Technology**: 
 
 - **First Rule of Technology**: Always have multiple contingency plans for tech failure. 
-- **Second Rule of Technology**: Always try as much as possible to force the technology to fail _before_ the talk rather than _during_ the talk. 
-- **Third Rule of Technology**: When handed a piece of technology to use in a talk, immediately ask the person giving it to you: _Has this been tested to make sure it works with the equipment that I will be using?_ 
+- **Second Rule of Technology**: Always try as much as possible to force the technology to fail _before_ the talk. 
+- **Third Rule of Technology**: When given a piece of technology to use in a talk, ask: _Has this been tested to make sure it works with the equipment that I will be using?_ 
 
 For example, the First Rule would say that if you are using Google Slides, then 
 - Make the slides available offline on every device you have

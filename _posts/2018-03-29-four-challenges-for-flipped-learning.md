@@ -8,7 +8,7 @@ tags:
   - Flipped learning
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hypecycle.png" alt="" class="full">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/moonshot.jpg" alt="" class="full">
 
 Back in January, I spoke at the EDUCAUSE Learning Initiative (ELI) conference in a lightning talk session on the future of higher education. [I summarized that session here](http://rtalbert.org/three-perspectives-on-the-future-of-higher-education/) but didn't go into a lot of depth on _my_ talk, which was on the future of flipped learning specifically. This week I was interviewed for [an Inside Higher Ed article on flipped learning certification standards](https://www.insidehighered.com/news/2018/03/27/group-seeks-set-standards-flipping-classroom), and that plus the comment section for that article --- which was marginally better behaved than the average comment section --- has spurred me to go a little deeper here about what I discussed at the ELI. 
 
@@ -73,7 +73,9 @@ We have a really good start on this fourth and final challenge, actually. Groups
 
 I've often said that soon, we won't be talking about "the flipped classroom" --- just "the classroom", because  flipped learning will be a normative practice and what is now traditional pedagogy will seem strange and antiquated. Taking on these four moon-shot challenges can give a lot of momentum in getting there. 
 
+---
 
+Image: https://solarsystem.nasa.gov/small-bodies/asteroids/10199-chariklo/in-depth/
 
 [^1]: In fact I am pleased to see fewer and fewer instances of the word "buzz" in proximity to the term "flipped learning". 
 

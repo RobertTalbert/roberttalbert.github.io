@@ -24,6 +24,12 @@ Because GTD has been so transformative in my career and life, in 2016-2017, I wr
 9. __[The Weekly Review](http://rtalbert.org/gtd-for-academics-weekly-review/).__ What can we do on a regular basis to make sure our system is running at top efficiency? 
 10. __[The Trimesterly Review](http://rtalbert.org/trimesterly-review/).__ What can we do on a not-as-regular basis to make sure all the work items we do are fruitfully connected to the Big Picture in our lives? 
 
+**Bonus:** Here are two articles on applying GTD to everyday life as a faculty member: 
+
+- [GTD and dealing with academic email](http://rtalbert.org/dealing-with-email/). 
+- [GTD and grading](http://rtalbert.org/grading-with-gtd/). 
+
+
 I hope you find these articles useful and helpful. Please contact me if you have questions or suggestions. 
 
 **_Coming Soon?_** I am considering cleaning these articles up, updating them, and adding to them in 2018 and publishing them in some sort of book form. Stay tuned. 

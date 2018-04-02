@@ -63,7 +63,7 @@ Rule 1 gives me 9 hours on campus each day. I also grade from 5:30 to 6:30am eve
 
 Well, _almost_ every weekend. There are definitely times where I have to build in some extra time to get things done; often I'll budget 6-8am on Saturdays for this since the kids aren't up (see Rule 3). I don't follow these rules 100% of the time. More like 90% of the time, which is still way better than the old days when I would just expand the time to fit a non-optimized workflow. 
 
-How does all my stuff get done most of the time within the 50-hour limit? That's where GTD comes in. You cannot do anything like a 50-hour fixed schedule and keep the same workflow that causes work to take 80 hours a week. I had to learn the practice of GTD in order to make fixed scheduling work.[You can read all the details in my GTD for Academics series](http://rtalbert.org/gtd). The short version is: 
+How does all my stuff get done most of the time within the 50-hour limit? That's where GTD comes in. You cannot do anything like a 50-hour fixed schedule and keep the same workflow that causes work to take 80 hours a week. I had to learn the practice of GTD in order to make fixed scheduling work. [You can read all the details in my GTD for Academics series](http://rtalbert.org/gtd). The short version is: 
 
 - I have an explicit, written-down vision of my Big Picture so I have a clear sense of my personal and professional goals on a variety of horizons ranging from Lifetime down to the next 100 days, and those are kept up to date through [regular trimesterly reviews](http://rtalbert.org/trimesterly-review/). I know what's important to me and how I want it that to play out in the long-, near-, and short term. 
 - I have a big list of lists that contains specific projects and atomic-sized tasks for those projects, each task tagged with time, context, and energy so that I can slice the data to find the best next action I could perform at any point in time. Each of those projects were things I said "yes" to because they sparked my interest and made sense with my Big Picture. So I tend not to waste time working on tasks that are a poor fit for the moment, or on projects that are a poor fit for me personally or professionally. And this list of lists is kept current through [regular weekly reviews](http://rtalbert.org/gtd-for-academics-weekly-review/). 
@@ -72,7 +72,7 @@ How does all my stuff get done most of the time within the 50-hour limit? That's
 
 
 
-[^1]: I'm not always "working" when I am at work. Sometimes I'm chatting with colleagues or students, or taking a walk, or going to a colloquium in another department. I have even been known to shut my office door and taken a nap at my desk if I've had a rough night of sleep (especially when the kids were babies). I  actually think it's unhealthy _just_ to work while at work. Building relationships is in many ways just as important as getting papers graded. But, again, keep it in proportion and take breaks only in moderation. 
+[^1]: I'm not always "working" when I am at work. Sometimes I'm chatting with colleagues or students, or taking a walk, or going to a colloquium in another department. I have even been known to shut my office door and take a nap at my desk if I've had a rough night of sleep (especially when the kids were babies). I  actually think it's unhealthy _just_ to work while at work. Building relationships is in many ways just as important as getting papers graded. But, again, keep it in proportion and take breaks only in moderation. 
 
 
 ## Caveats

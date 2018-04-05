@@ -26,7 +26,7 @@ So, you (or someone you know) is pre-tenured and is feeling the pressure to say 
 
 >**Get to know your tenure system extremely well, and lean on it to help you make decisions.**
 
-It seems to me that many instances of acquiescence pressure result from having an unclear idea, or no idea at all, of how tenure is actually obtained at one's institution. This can happen for two reasons: 
+It seems to me that many instances of "acquiescence pressure" result from having an unclear idea, or no idea at all, of how tenure is actually obtained at one's institution. This can happen for two reasons: 
 
 1. The tenure system is clear and precise about the requirements for tenure and promotion and the process is carried out fairly and openly, _but_ the faculty member doesn't know what those requirements are; or,
 2. The tenure system itself has unclear or imprecise requirements, or uses an unfair and closed process. 

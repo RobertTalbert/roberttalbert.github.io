@@ -3,7 +3,10 @@ title: "Book"
 permalink: /book/
 ---
 
-![image-left](/assets/images/flbook-small.jpg){: .align-left}
+<!-- ![image-left](/assets/images/flbook-small.jpg){: .align-left} -->
+
+<iframe type="text/html" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0718WJ46N&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_wDJYAbR4QSY5D" ></iframe>
+
 I'm the author of _Flipped Learning: A Guide for Higher Education Faculty_, published by [Stylus Publications](https://styluspub.presswarehouse.com) in May 2017. I wrote this book because I've been teaching with flipped learning for a while (since 2009) and writing about it on my blog for about the same amount of time. During that time I've made a lot (!) of mistakes and figured a lot of things out. I wanted to collect everything I know about flipped learning --- along with some research, theoretical foundations, history, and practical examples --- and put it in one volume. I'm convinced that flipped learning is the way of the future in higher education and I want to give faculty in all walks of higher ed a handbook for how to get started and keep going.
 
 In the book, you'll learn:
@@ -21,4 +24,5 @@ In the book, you'll learn:
 
 There's much more in the book, and I'm really excited to get it into the hands of as many college faculty as possible. 
 
-[BUY THE BOOK](https://sty.presswarehouse.com/Books/BookDetail.aspx?productID=468277){: .btn .btn--info}
+[BUY THE BOOK at Stylus Publications](https://sty.presswarehouse.com/Books/BookDetail.aspx?productID=468277){: .btn .btn--info}
+

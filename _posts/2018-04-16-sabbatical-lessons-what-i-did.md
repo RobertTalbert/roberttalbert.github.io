@@ -40,7 +40,7 @@ I've been thinking for the last couple of weeks about the big takeaways from my 
 
 1. __Business and higher education have more in common than we academics think__.
 2. __Higher education can, and should, study and adapt the practices of highly effective businesses__. 
-3. __The most important characteristic of great companies, that higher education lacks the most, is _agility__. 
+3. __The most important characteristic of great companies, that higher education lacks the most, is *agility*__. 
 4. __Innovation is hard work, needs to be scalable, and needs to be everybody's job__.
 5. __Workplace culture trumps everything__. 
 6. __In a great company, everybody assumes responsibility for everything__. 

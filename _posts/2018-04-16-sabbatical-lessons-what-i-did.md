@@ -39,14 +39,23 @@ And let me say: If you're an academic and the phrase "friends in the corporate w
 I've been thinking for the last couple of weeks about the big takeaways from my sabbatical on this issue. It's been hard, because I've learned and experienced so much that it's nearly impossible to distill it all down into a short list, and any short list I could generate will oversimplify things. But insofar as I can manage it, as a preview of what's to come, here's a list of what I think were the biggest lessons I learned: 
 
 __1. Business and higher education have more in common than we academics think.__
+
 __2. Higher education can, and should, study and adapt the practices of highly effective businesses.__ 
+
 __3. The most important characteristic of great companies, that higher education lacks the most, is _agility_.__ 
+
 __4. Innovation is hard work, needs to be scalable, and needs to be everybody's job.__
+
 __5. Workplace culture trumps everything.__ 
+
 __6. In a great company, everybody assumes responsibility for everything.__ 
+
 __7. There is great power in a diverse team working with a single purpose.__ 
+
 __8. College faculty are [smart creatives](https://www.officevibe.com/blog/rise-smart-creative).__ 
+
 __9. The future of work is a whole lot of both-and's, not either-or's.__ 
+
 __10. Higher education is at a turning point, and it can either adapt and thrive, or stay put and be irrelevant.__ 
 
 I'll be taking these points one at a time to go deeper into what I mean by each over the coming weeks.  

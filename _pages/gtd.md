@@ -16,7 +16,7 @@ Because GTD has been so transformative in my career and life, in 2016-2017, I wr
 1. __[Setting the Stage](http://rtalbert.org/blog/2016/gtd-for-academics-setting-stage).__ Who needs GTD anyway? 
 2. __[Engaging the System](http://rtalbert.org/blog/2016/gtd-for-academics-engaging-system).__ What are the characteristics of a really good productivity system? Or, why do to-do lists suck? 
 3. __[Acquiring the Habits](http://rtalbert.org/gtd-for-academics-acquiring-the-habits/).__ What are the behavioral building blocks needed to gain control over our stuff? 
-4. __[Collect](http://rtalbert.org/gtd-for-academics-acquiring-the-habits/).__ How can we build a simple system for capturing the stuff that comes through our minds and inboxes? 
+4. __[Collect](http://rtalbert.org/gtd-for-academics-collect/).__ How can we build a simple system for capturing the stuff that comes through our minds and inboxes? 
 5. __[Process](http://rtalbert.org/gtd-for-academics-process/).__ What do we do with the stuff that we capture? And, is Inbox Zero just a pipe dream? 
 6. __[Planning](http://rtalbert.org/gtd-for-academics-plan/).__ How can we organize our time so that we can get the stuff done that we processed, and not have to work nights and weekends all the time? 
 7. __[Doing](http://rtalbert.org/gtd-for-academics-do/).__ Of all the stuff that you could possibly do, how do you decide the _best_ thing to do in the moment that you're in? 

@@ -1,5 +1,5 @@
 ---
-title: "Sabbatical lessons, part 0: What I did in as an embedded academic"
+title: "Sabbatical lessons, part 0: What I did as an embedded academic"
 excerpt: "I'm rolling out a 10-part series on the big takeaways from my sabbatical at Steelcase this year. This post sets this series up and gives a summary."
 comments: true
 share: true

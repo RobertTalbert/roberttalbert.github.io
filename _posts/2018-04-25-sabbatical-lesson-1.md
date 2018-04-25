@@ -83,3 +83,7 @@ Steelcase is dealing with some of this disruption now, as smaller companies are 
 ---
 
 Higher education and business have more in common than we think, and that's a good thing, since we need all the help we can get. In the next post, I'll share some thoughts about finding and adapting lessons and practices from business and making them work in higher education. 
+
+---
+
+Image: https://pixabay.com/en/business-office-contract-agreement-3167295/ 

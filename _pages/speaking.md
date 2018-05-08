@@ -17,12 +17,12 @@ If you are in in higher education and are looking for someone to come and work w
 
 ## Upcoming speaking and workshop engagements
 
-<!-- Nothing is booked at the moment! See below for information on how to contact me for talks and workshops.  -->
+**Nothing is booked at the moment!** See below for information on how to contact me for talks and workshops.  
 
-| Event | Host | Location | Dates |
+<!-- | Event | Host | Location | Dates |
 | Flipped Learning workshop | California State Polytechnic Institute | Pomona, CA | April 13, 2018 | 
 | Keynote -- 14th Annual Okanagan Learning Conference | University of British Columbia -- Okanagan | Okanagan, BC | May 2, 2018 | 
-| Keynote -- Board of Governors' meeting   | Florida State University System | Orlando, FL | May 7, 2018 | 
+| Keynote -- Board of Governors' meeting   | Florida State University System | Orlando, FL | May 7, 2018 |   -->
 
 
 ## Experience

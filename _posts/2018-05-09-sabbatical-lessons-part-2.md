@@ -48,3 +48,6 @@ But how much is enough, and can we do better on certain things? I will end this 
 - See the discussion above about semi-autonomous organizations tasked with innovating on behalf of the larger organization. Could universities form such groups within themselves and then giving those group special dispensation to follow their ideas with less red tape? Yes, this means less faculty governance, but for a small sub-organization, could that be OK? 
 - In what ways within our existing structures can we make more streamlined paths for good ideas that need to see the light of day sooner rather than later? 
 
+---
+
+_Image_: [https://www.pexels.com/photo/active-agility-dancer-dancing-415307/](https://www.pexels.com/photo/active-agility-dancer-dancing-415307/)

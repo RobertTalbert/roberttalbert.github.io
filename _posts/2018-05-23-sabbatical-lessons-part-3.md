@@ -46,7 +46,7 @@ Second, __innovation has to scale__. This is a phrase I heard in a conversation 
 
 While I was at Steelcase, there was a lot of conversation about how well the company was reaching customers at various places along the [diffusion of innovations curve](https://en.wikipedia.org/wiki/Diffusion_of_innovations):
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Diffusion_of_ideas.jpg" alt="" class="full">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Diffusion_of_ideas.png" alt="" class="full">
 
 Steelcase has done an outstanding job penetrating the market of "innovators" and "early adopters" in education. But that market space is nearly saturated at this point --- most schools in those groups that will ever purchase active learning classrooms, have done so already --- and so the question becomes how to reach the "early majority" market. These are schools that are more cautious about active learning classrooms (or sometimes just active learning, period) and in need of more justification to accept the risks that all real innovation always entails.  
 

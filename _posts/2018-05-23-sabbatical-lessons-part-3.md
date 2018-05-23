@@ -1,4 +1,3 @@
-
 ---
 title: "Sabbatical lessons, part 3: The hard work of innovation"
 excerpt: "Innovation: It's a word that higher education both loves and hates. What is innovation, and what did I learn in my sabbatical about it?"
@@ -7,6 +6,8 @@ share: true
 tags:
   - Academia 
 ---
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innovation.jpg" alt="" class="full">
 
 _This is the fourth post --- it's part 3 because I started with 0 --- in an ongoing series in May on [my sabbatical experiences](http://rtalbert.org/sabbatical). I invite you to check out [the first post](http://rtalbert.org/sabbatical-lessons-what-i-did/), [the second one](http://rtalbert.org/sabbatical-lesson-1/), and the third one._ 

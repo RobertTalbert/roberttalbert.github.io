@@ -84,3 +84,7 @@ As I said, I have 90 days to re-learn how to be a professor. In many ways this i
 I'm also starting this fall as Assistant Chair in my department. We have a large department (30 tenure-track faculty) and so we have one Department Chair and two Assistant Chairs. I will be involved with faculty searches, course scheduling, and some aspects of personnel review --- all key tasks tied directly with the sort of culture-building I just described. I have never been assistant chair of anything, so I'll be putting the wings on the plane while it's still in flight. But this is how my whole career has gone, so I'm used to it. It will be a prime opportunity to put into practice what I've learned about leadership, innovation, and organizations while at Steelcase. 
 
 In the meanwhile, over the summer, I am taking it slow, as we all should do if given the chance. August will be here soon enough. 
+
+---
+
+Image: https://pixabay.com/en/people-children-child-kids-girls-1149873/ 

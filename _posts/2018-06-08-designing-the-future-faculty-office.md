@@ -79,7 +79,7 @@ Through this project, we learned:
 
 The design group on this project took all of this ethnographic data, and through a series of design sprints came up with a collection of prototypes for many different forms of faculty spaces. They are, like most Steelcase designs, simply beautiful and make me want to have one of my own right now. These designs were put into a booklet that you can download for free at this link: 
 
->https://www.steelcase.com/spaces-inspiration/active-learning-spaces-faculty/  
+><https://www.steelcase.com/spaces-inspiration/active-learning-spaces-faculty/>  
 
 (You do have to give some contact information before you can download the booklet.) There is also a whitepaper by Jeff Selingo (author of one of those _Chronicle_ pieces) on the future of the faculty office that you can download. 
 

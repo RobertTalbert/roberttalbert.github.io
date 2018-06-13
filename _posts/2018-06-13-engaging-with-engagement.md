@@ -1,6 +1,6 @@
 ---
 title: "Engaging with the concept of engagement"
-excerpt: "Engaged learning --- everyone talks about it, but what does the term, engagement, even mean? Does it mean anything? We take a look through an excerpt from a forthcoming literature review on active learnign spaces."
+excerpt: "Engaged learning --- everyone talks about it, but what does the term, engagement, even mean? Does it mean anything? We take a look through an excerpt from a forthcoming literature review on active learning  spaces."
 comments: true
 share: true
 tags:
